@@ -1,0 +1,2612 @@
+<resources>
+    <string name="app_name">台灣夜市美食推薦</string>
+    <string-array name="city">
+        <item>請選擇縣市</item>
+        <item>基隆市</item>
+        <item>新北市</item>
+        <item>台北市</item>
+        <item>桃園市</item>
+        <item>新竹市</item>
+        <item>新竹縣</item>
+        <item>苗栗縣</item>
+        <item>台中市</item>
+        <item>彰化縣</item>
+        <item>南投縣</item>
+        <item>雲林縣</item>
+        <item>嘉義市</item>
+        <item>嘉義縣</item>
+        <item>台南市</item>
+        <item>高雄市</item>
+        <item>屏東縣</item>
+        <item>宜蘭縣</item>
+        <item>花蓮縣</item>
+        <item>台東縣</item>
+        <item>澎湖縣</item>
+        <item>金門縣</item>
+        <item>連江縣</item>
+    </string-array>
+    <string-array name="nightmarket">
+        <item>請選擇夜市</item>
+        <item>基隆廟口夜市</item>
+        <item>八斗子夜市夜市</item>
+        <item>七堵夜市</item>
+        <item>碇內夜市</item>
+    </string-array>
+    <string-array name="nightmarket1">
+        <item>請選擇夜市</item>
+        <item>樂華夜市</item>
+        <item>南雅夜市</item>
+        <item>裕民夜市</item>
+        <item>三和夜市</item>
+        <item>中和興南夜市</item>
+        <item>樹林興仁花園夜市</item>
+        <item>樹林夜市</item>
+        <item>新莊廟街夜市</item>
+        <item>西盛夜市</item>
+        <item>蘆洲廟口夜市</item>
+        <item>淡水英專夜市</item>
+        <item>淡水沙崙夜市</item>
+        <item>淡水五號橋夜市</item>
+        <item>三芝夜市</item>
+        <item>鶯歌夜市</item>
+        <item>林口夜市</item>
+        <item>八里商圈</item>
+        <item>西雲路夜市</item>
+        <item>御史路夜市</item>
+        <item>金山夜市</item>
+        <item>萬里夜市</item>
+        <item>深坑廟前夜市</item>
+        <item>五股工業區夜市</item>
+        <item>汐止觀光夜市</item>
+        <item>汐止弘道街夜市</item>
+        <item>汐止樟樹夜市</item>
+        <item>五堵夜市</item>
+    </string-array>
+    <string-array name="nightmarket2">
+        <item>請選擇夜市</item>
+        <item>士林夜市</item>
+        <item>華西街夜市</item>
+        <item>艋舺夜市</item>
+        <item>饒河街觀光夜市</item>
+        <item>公館夜市</item>
+        <item>南機場觀光夜市</item>
+        <item>師大商圈</item>
+        <item>臨江街觀光夜市</item>
+        <item>寧夏夜市</item>
+        <item>大龍街夜市</item>
+        <item>延三夜市</item>
+        <item>景美夜市</item>
+        <item>雙城街夜市</item>
+        <item>遼寧街夜市</item>
+        <item>石牌夜市</item>
+        <item>林口街夜市</item>
+        <item>737夜市</item>
+        <item>大義夜市</item>
+    </string-array>
+    <string-array name="nightmarket3">
+        <item>請選擇夜市</item>
+        <item>南崁五福夜市</item>
+        <item>大竹夜市</item>
+        <item>桃園觀光夜市</item>
+        <item>中壢觀光夜市</item>
+        <item>中原夜市</item>
+        <item>興仁花園夜市</item>
+        <item>上海路夜市</item>
+        <item>楊明夜市</item>
+        <item>埔心後站夜市</item>
+        <item>富岡夜市</item>
+        <item>龍潭觀光夜市</item>
+        <item>菓林夜市</item>
+        <item>大園夜市</item>
+        <item>大溪夜市</item>
+        <item>新屋夜市</item>
+        <item>草漯夜市</item>
+        <item>新坡夜市</item>
+        <item>觀音夜市</item>
+        <item>復興夜市</item>
+        <item>觀音工業區夜市</item>
+        <item>山腳夜市</item>
+        <item>龍岡貿東夜市</item>
+    </string-array>
+    <string-array name="nightmarket4">
+        <item>請選擇夜市</item>
+        <item>城隍廟夜市</item>
+        <item>清大夜市</item>
+        <item>富美宮夜市</item>
+        <item>樹林頭夜市</item>
+        <item>慈雲路夜市</item>
+        <item>青草湖夜市</item>
+        <item>內湖夜市</item>
+        <item>中正台夜市</item>
+    </string-array>
+    <string-array name="nightmarket5">
+        <item>請選擇夜市</item>
+        <item>竹北夜市</item>
+        <item>竹東沿河街夜市</item>
+        <item>竹東二重埔夜市</item>
+        <item>湖口夜市</item>
+        <item>湖口王爺壟夜市</item>
+        <item>關西夜市</item>
+        <item>新庄子夜市</item>
+        <item>新豐夜市</item>
+        <item>寶山雙溪夜市</item>
+        <item>新埔夜市</item>
+        <item>芎林夜市</item>
+        <item>竹中夜市</item>
+    </string-array>
+    <string-array name="nightmarket6">
+        <item>請選擇夜市</item>
+        <item>國泰夜市</item>
+        <item>中港夜市</item>
+        <item>建國路龍鳳夜市</item>
+        <item>頭份建國夜市</item>
+        <item>苗栗英才觀光夜市</item>
+        <item>公館夜市</item>
+        <item>後龍夜市</item>
+        <item>苑裡夜市</item>
+        <item>大湖夜市</item>
+        <item>銅鑼夜市</item>
+        <item>三義夜市</item>
+        <item>卓蘭夜市</item>
+        <item>通霄夜市</item>
+    </string-array>
+    <string-array name="nightmarket7">
+        <item>請選擇夜市</item>
+        <item>逢甲夜市</item>
+        <item>一中商圈</item>
+        <item>中華路夜市</item>
+        <item>忠孝路夜市</item>
+        <item>東海別墅夜市</item>
+        <item>霧峰樹仁商圈</item>
+        <item>豐原廟東夜市</item>
+        <item>太平臺中小鎮夜市</item>
+        <item>四張犁夜市</item>
+        <item>太原夜市</item>
+        <item>捷運總站夜市</item>
+        <item>潭子勝利夜市</item>
+        <item>潭子頭家夜市</item>
+        <item>大雅(雅潭)夜市</item>
+        <item>葫蘆墩觀光夜市</item>
+        <item>SOGO停車場夜市</item>
+        <item>八方國際觀光夜市</item>
+        <item>神岡夜市</item>
+        <item>后里夜市</item>
+        <item>外埔夜市</item>
+        <item>東勢夜市</item>
+        <item>旱溪夜市</item>
+        <item>太平東平夜市</item>
+        <item>大慶觀光夜市</item>
+        <item>烏日觀光夜市</item>
+        <item>大里勝利大夜市</item>
+        <item>大里塗城夜市</item>
+        <item>大里文化街夜市</item>
+        <item>亞洲大學夜市</item>
+        <item>霧峰四德路夜市</item>
+        <item>霧峰德泰街夜市</item>
+        <item>大肚夜市</item>
+        <item>大肚山龍井自強夜市</item>
+        <item>龍井茄投夜市</item>
+        <item>福順宮夜市</item>
+        <item>靜宜夜市</item>
+        <item>梧棲夜市</item>
+        <item>清水大秀夜市</item>
+        <item>清水國中夜市</item>
+        <item>大甲夜市</item>
+        <item>大甲蔣公路夜市</item>
+    </string-array>
+    <string-array name="nightmarket8">
+        <item>請選擇夜市</item>
+        <item>彰化中央陸橋夜市</item>
+        <item>彰化精誠夜市</item>
+        <item>彰化冠天夜市</item>
+        <item>彰化永安夜市</item>
+        <item>和美東發夜市</item>
+        <item>和美美寮路夜市</item>
+        <item>和美仁愛夜市</item>
+        <item>鹿港鹿和夜市</item>
+        <item>鹿港頂番夜市</item>
+        <item>鹿港草港夜市</item>
+        <item>線西夜市</item>
+        <item>伸港水尾夜市</item>
+        <item>伸港福安宮夜市</item>
+        <item>秀水夜市</item>
+        <item>芬園社口夜市</item>
+        <item>員林龍燈夜市</item>
+        <item>員林林厝夜市</item>
+        <item>員林觀光市集</item>
+        <item>大村夜市</item>
+        <item>花壇夜市</item>
+        <item>社頭夜市</item>
+        <item>田中高鐵夜市</item>
+        <item>二水夜市</item>
+        <item>田尾夜市</item>
+        <item>田尾海豐崙夜市</item>
+        <item>埤頭星期一.四夜市</item>
+        <item>埤頭星期四夜市</item>
+        <item>北斗觀光夜市</item>
+        <item>溪州夜市</item>
+        <item>二林王子夜市</item>
+        <item>二林金仔角觀光夜市</item>
+        <item>永靖觀光夜市</item>
+        <item>埔鹽夜市</item>
+        <item>埔鹽好修夜市</item>
+        <item>埔鹽新水夜市</item>
+        <item>埔鹽天盛夜市</item>
+        <item>溪湖夜市</item>
+        <item>溪湖成功夜市</item>
+        <item>溪湖大公路夜市</item>
+        <item>福興夜市</item>
+        <item>芳苑草湖夜市</item>
+        <item>芳苑王功夜市</item>
+        <item>竹塘夜市</item>
+        <item>大城夜市</item>
+        <item>埤頭星期三夜市</item>
+    </string-array>
+    <string-array name="nightmarket9">
+        <item>請選擇夜市</item>
+        <item>草鞋墩人文觀光夜市</item>
+        <item>國姓夜市</item>
+        <item>南投市三和夜市</item>
+        <item>南崗夜市</item>
+        <item>中興新村內轆夜市</item>
+        <item>南投市（祖祠路）夜市</item>
+        <item>中寮夜市</item>
+        <item>松柏嶺夜市</item>
+        <item>名間夜市名間鄉市場巷</item>
+        <item>鹿谷夜市</item>
+        <item>竹山夜市</item>
+        <item>集集夜市</item>
+        <item>水裡夜市</item>
+        <item>魚池夜市</item>
+        <item>埔里八德夜市</item>
+        <item>埔里樹人路夜市</item>
+        <item>埔里中華夜市</item>
+        <item>埔里城觀光夜市</item>
+        <item>信義夜市</item>
+    </string-array>
+    <string-array name="nightmarket10">
+        <item>請選擇夜市</item>
+        <item>斗六人文公園夜市</item>
+        <item>斗六成功夜市</item>
+        <item>斗六石榴班夜市</item>
+        <item>大崙夜市</item>
+        <item>虎尾夜市</item>
+        <item>土庫夜市</item>
+        <item>馬光夜市</item>
+        <item>同仁夜市</item>
+        <item>東南夜市</item>
+        <item>西螺夜市</item>
+        <item>吳厝夜市</item>
+        <item>斗南夜市</item>
+        <item>石龜夜市</item>
+        <item>林內夜市</item>
+        <item>古坑夜市</item>
+        <item>大埤夜市</item>
+        <item>莿桐夜市</item>
+        <item>崙背夜市</item>
+        <item>二崙夜市</item>
+        <item>麥寮泰安宮夜市</item>
+        <item>麥寮鎮南宮夜市</item>
+        <item>褒忠夜市</item>
+        <item>下崙夜市</item>
+        <item>台西夜市</item>
+        <item>崙豐夜市</item>
+        <item>東勢夜市</item>
+        <item>四湖夜市</item>
+        <item>元長夜市</item>
+    </string-array>
+    <string-array name="nightmarket11">
+        <item>請選擇夜市</item>
+        <item>文化路夜市</item>
+        <item>嘉樂福夜市</item>
+        <item>彌陀夜市</item>
+    </string-array>
+    <string-array name="nightmarket12">
+        <item>請選擇夜市</item>
+        <item>新塭夜市</item>
+        <item>布袋夜市</item>
+        <item>大布袋購物城夜市</item>
+        <item>過溝夜市</item>
+        <item>東石夜市</item>
+        <item>蒜頭夜市</item>
+        <item>義竹夜市</item>
+        <item>鹿草夜市</item>
+        <item>朴子夜市</item>
+        <item>七主宮夜市</item>
+        <item>後潭夜市</item>
+        <item>新埤夜市</item>
+        <item>麻魚寮夜市</item>
+        <item>新港夜市</item>
+        <item>民雄夜市</item>
+        <item>頭橋夜市</item>
+        <item>溪口夜市</item>
+        <item>大林夜市</item>
+        <item>大埔美夜市</item>
+        <item>竹崎夜市</item>
+        <item>梅山夜市</item>
+        <item>水上夜市</item>
+        <item>中庄夜市</item>
+        <item>汴頭夜市</item>
+        <item>同仁夜市</item>
+        <item>番路夜市</item>
+    </string-array>
+    <string-array name="nightmarket13">
+        <item>請選擇夜市</item>
+        <item>花園夜市</item>
+        <item>大東夜市</item>
+        <item>武聖夜市</item>
+        <item>小北觀光夜市</item>
+        <item>小北成功夜市</item>
+        <item>仁和夜市</item>
+        <item>灣裡夜市</item>
+        <item>新永華夜市</item>
+        <item>十二佃夜市</item>
+        <item>本淵寮夜市</item>
+        <item>中州寮夜市</item>
+        <item>聖母廟夜市</item>
+        <item>國宅夜市</item>
+        <item>樺谷夜市</item>
+        <item>永大夜市</item>
+        <item>南工夜市</item>
+        <item>鹽行夜市</item>
+        <item>中興里夜市</item>
+        <item>復華夜市</item>
+        <item>聖龍夜市</item>
+        <item>鍾厝夜市</item>
+        <item>德南夜市</item>
+        <item>太子廟夜市</item>
+        <item>大潭夜市</item>
+        <item>歸仁星期三夜市</item>
+        <item>歸仁星期四夜市</item>
+        <item>關廟夜市</item>
+        <item>新市夜市</item>
+        <item>善化夜市</item>
+        <item>新化夜市</item>
+        <item>民生夜市</item>
+        <item>隆田夜市</item>
+        <item>六甲夜市</item>
+        <item>下營夜市</item>
+        <item>中營夜市</item>
+        <item>麻豆夜市</item>
+        <item>西港夜市</item>
+        <item>安定夜市</item>
+        <item>海寮夜市</item>
+        <item>佳里夜市</item>
+        <item>安西夜市</item>
+        <item>仁愛夜市</item>
+        <item>玉井夜市</item>
+        <item>山上夜市</item>
+        <item>大內夜市</item>
+        <item>學甲夜市</item>
+        <item>漚汪夜市</item>
+        <item>蚵寮夜市</item>
+        <item>北門夜市</item>
+        <item>三寮灣夜市</item>
+        <item>新營夜市</item>
+        <item>新進夜市</item>
+        <item>鹽水夜市</item>
+        <item>長安夜市</item>
+        <item>白河夜市</item>
+        <item>白河中正夜市</item>
+        <item>柳營夜市</item>
+        <item>小腳腿夜市</item>
+        <item>果毅後夜市</item>
+        <item>東山夜市</item>
+        <item>龍山夜市</item>
+    </string-array>
+    <string-array name="nightmarket14">
+        <item>請選擇夜市</item>
+        <item>六合夜市</item>
+        <item>南華夜市</item>
+        <item>瑞豐夜市</item>
+        <item>凱旋青年觀光夜市</item>
+        <item>前鎮夜市</item>
+        <item>光華夜市</item>
+        <item>德昌夜市</item>
+        <item>瑞北夜市</item>
+        <item>崗山南夜市</item>
+        <item>漢民夜市</item>
+        <item>二苓夜市</item>
+        <item>桂林夜市</item>
+        <item>苓雅夜市</item>
+        <item>忠孝夜市</item>
+        <item>興中夜市</item>
+        <item>吉林夜市</item>
+        <item>駁二夜市</item>
+        <item>內惟夜市</item>
+        <item>鳳山中山路夜市</item>
+        <item>中華街夜市</item>
+        <item>五甲夜市</item>
+        <item>海洋夜市</item>
+        <item>中崙夜市</item>
+        <item>會社88夜市</item>
+        <item>林園夜市</item>
+        <item>鳥松夜市</item>
+        <item>仁武夜市</item>
+        <item>後勁夜市</item>
+        <item>楠都夜市</item>
+        <item>大社夜市</item>
+        <item>旗山夜市</item>
+        <item>美濃夜市</item>
+        <item>橋頭星期一夜市</item>
+        <item>橋頭星期六夜市</item>
+        <item>五里林夜市</item>
+        <item>九甲圍夜市</item>
+        <item>蚵仔寮夜市</item>
+        <item>燕巢夜市</item>
+        <item>岡山中山夜市</item>
+        <item>路竹夜市</item>
+        <item>湖內大廟夜市</item>
+        <item>湖內大湖夜市</item>
+        <item>永安夜市</item>
+        <item>大樹夜市</item>
+        <item>九曲堂夜市</item>
+        <item>鋼平夜市</item>
+    </string-array>
+    <string-array name="nightmarket15">
+        <item>請選擇夜市</item>
+        <item>屏東民族路夜市</item>
+        <item>墾丁大街</item>
+        <item>恆春夜市</item>
+        <item>潮州夜市</item>
+        <item>萬丹夜市</item>
+        <item>社皮夜市</item>
+        <item>新庄夜市</item>
+        <item>新園夜市</item>
+        <item>新東夜市</item>
+        <item>烏龍夜市</item>
+        <item>高樹夜市</item>
+        <item>東港夜市</item>
+        <item>繁華夜市</item>
+        <item>林邊夜市</item>
+        <item>南州夜市</item>
+        <item>水底寮夜市</item>
+        <item>北勢寮夜市</item>
+        <item>里港夜市</item>
+        <item>石光見夜市</item>
+        <item>鹽埔夜市</item>
+        <item>新圍夜市</item>
+        <item>長治夜市</item>
+        <item>九如夜市</item>
+        <item>麟洛夜市</item>
+        <item>西勢夜市</item>
+        <item>水門夜市</item>
+        <item>龍泉夜市</item>
+        <item>老埤夜市</item>
+        <item>楓港夜市</item>
+        <item>佳佐夜市</item>
+        <item>七佳夜市</item>
+        <item>望嘉夜市</item>
+    </string-array>
+    <string-array name="nightmarket16">
+        <item>請選擇夜市</item>
+        <item>羅東夜市</item>
+        <item>東門觀光夜市</item>
+        <item>員山夜市</item>
+        <item>冬山夜市</item>
+        <item>清溝夜市</item>
+        <item>南方澳夜市</item>
+        <item>頭城夜市</item>
+        <item>南澳夜市</item>
+        <item>三星夜市</item>
+        <item>蘇澳夜市</item>
+    </string-array>
+    <string-array name="nightmarket17">
+        <item>請選擇夜市</item>
+        <item>花蓮東大門國際觀光夜市</item>
+        <item>崇德夜市</item>
+        <item>太魯閣夜市</item>
+        <item>新城夜市</item>
+        <item>北埔廟口夜市</item>
+        <item>北埔夜市</item>
+        <item>美崙夜市</item>
+        <item>太昌夜市</item>
+        <item>南埔夜市</item>
+        <item>志學(志安宮)夜市</item>
+        <item>壽豐夜市</item>
+        <item>林榮夜市</item>
+        <item>鳳林夜市</item>
+        <item>光復夜市</item>
+        <item>富源夜市</item>
+        <item>瑞穗夜市</item>
+        <item>玉里夜市</item>
+        <item>玉里假日觀光夜市</item>
+        <item>富里夜市</item>
+    </string-array>
+    <string-array name="nightmarket18">
+        <item>請選擇夜市</item>
+        <item>臺東觀光夜市</item>
+        <item>知本夜市</item>
+        <item>四維夜市</item>
+        <item>太平夜市</item>
+        <item>太麻里觀光夜市</item>
+        <item>金崙夜市</item>
+        <item>大武夜市</item>
+        <item>池上夜市</item>
+        <item>長濱夜市</item>
+        <item>關山夜市</item>
+        <item>桃源夜市</item>
+        <item>新港夜市</item>
+    </string-array>
+    <string-array name="nightmarket19">
+        <item>請選擇夜市</item>
+        <item>西文祖師廟夜市</item>
+        <item>北甲宮夜市</item>
+        <item>馬公夜市</item>
+    </string-array>
+    <string-array name="nightmarket20">
+        <item>請選擇夜市</item>
+        <item>金門體育館夜市</item>
+        <item>金門救國團夜市</item>
+    </string-array>
+    <string-array name="nightmarket21">
+        <item>請選擇夜市</item>
+        <item>南竿馬港觀光夜市</item>
+    </string-array>
+    <string-array name="error">
+        <item>請選擇縣市夜市</item>
+    </string-array>
+    <string name="KLUfood">
+        吳記螃蟹羹／油飯-螃蟹羹、油飯\n
+        營養三明治-營養三明治\n
+        陳家壽司生魚飯-生魚片\n
+        一口吃天婦羅-花枝天婦羅\n
+        紀家豬腳原汁專家-原汁豬腳\n
+        陳記泡泡冰-花生泡泡冰
+    </string>
+    <string name="KLUfood1">
+        肉串王-烤肉串\n
+        三鼎組現煮玉米-番麥\n
+        余記大腸包小腸-大腸包小腸\n
+        紅茶ㄇㄟˋ-鮮奶紅茶+黑糖粉圓\n
+        鴨片香滷味-滷味
+    </string>
+    <string name="KLUfood2">
+        七堵家傳營養三明治-營養三明治\n
+        七堵臭粿仔湯-臭粿仔\n
+        無名臭豆腐-炸臭豆腐\n
+        珍妙味香炸雞-炸物\n
+        烏龍伯七堵咖哩麵-咖哩麵
+    </string>
+    <string name="KLUfood3">
+        珍妙口味香炸雞-炸物\n
+        燒仙草-燒仙草\n
+        公道伯串燒-串燒
+    </string>
+    <string name="KLUfood4">
+        珍妙口味香炸雞-炸物\n
+        燒仙草-燒仙草\n
+        公道伯串燒-串燒
+    </string>
+    <string name="NTPfood">
+        泰桑哩SONNY_CHATHAI-泰式奶茶、泰式奶綠\n
+        官記純檸檬泰式涼拌木瓜-檸檬泰式涼拌木瓜絲\n
+        樂華涼拌手撕雞-豪華手撕雞、百檸青菜\n
+        深海旗魚串-旗魚串
+    </string>
+    <string name="NTPfood1">
+        王好吃麻油雞-麻油雞\n
+        眼鏡仔豬血湯-招牌豬血腸湯\n
+        魏祥記燒麻糬冰-原味麻糬冰、燒麻糬\n
+        蚵仔之家-蚵仔乾麵、蚵仔湯\n
+        好多味香腸-大腸包小腸
+    </string>
+    <string name="NTPfood2">
+        丸吉左衛門-豚骨拉麵\n
+        裕民街紅豆湯圓-紅豆湯圓\n
+        阿益魯肉飯-魯肉飯、魯筍絲
+    </string>
+    <string name="NTPfood3">
+        蛋白滷味-滷蛋白\n
+        小楊脆腸-滷味、小腸、脆腸\n
+        太順油飯-油飯\n
+        萬粒肉圓-肉圓
+    </string>
+    <string name="NTPfood4">
+        南勢角東山鴨頭-東山鴨頭\n
+        香菇肉圓-香菇肉圓\n
+        香蕉蛋糕-香蕉蛋糕\n
+        珊珊臭豆腐-炸臭豆腐、米粉湯\n
+        祥壽司-花壽司、手卷
+    </string>
+    <string name="NTPfood5">
+        松花木瓜牛奶-木瓜牛奶、香蕉牛奶\n
+        巧手蛋中蛋-起司爆漿雞蛋糕\n
+        御品香臭豆腐-麻辣鍋、炸臭豆腐\n
+        霸王鳥蛋-鳥蛋
+    </string>
+    <string name="NTPfood6">
+        小戴雞排-雞排、雞翅、雞柳條\n
+        大榮肉粥-香菇肉粥、紅燒肉、炸豆腐\n
+        筒蕭家傳甜品店-傳統豆花、滷麻糬\n
+        醇醇滷味-滷味\n
+        無名水煎包-水煎包
+    </string>
+    <string name="NTPfood7">
+        牛之鄉牛排-牛排\n
+        巴比Q蒙古烤肉-蒙古烤肉\n
+        好日食專売所goodlosophy-熱壓雞蛋糕\n
+        英倫小廚-炙燒蛋捲餅\n
+        潤餅捲-潤餅捲
+    </string>
+    <string name="NTPfood8">
+        燈籠蛋塔-雞蛋布丁、蛋塔\n
+        吳計排骨酥-排骨酥\n
+        鴨香寶東山鴨頭-東山鴨頭\n
+        南北第七家-木瓜牛奶
+    </string>
+    <string name="NTPfood9">
+        香Ｑ超大豬血糕-豬血糕\n
+        福州包銅板價3顆10元-福州包\n
+        清燉豬腳湯．生炒花枝-清燉豬腳湯、生炒花枝羹\n
+        30年老店楊家肉圓-手工肉圓\n
+        30年老店當歸土虱-當歸土虱
+    </string>
+    <string name="NTPfood10">
+       阿財潤餅-潤餅\n
+        沙茶羊肉-沙茶羊肉\n
+        營養沙拉船甜甜圈-營養沙拉船、甜甜圈\n
+        鮑家餡餅-餡餅\n
+        賴記雞蛋糕-雞蛋糕
+    </string>
+    <string name="NTPfood11">
+       阿婆碳烤-碳烤\n
+        喬治素食漢堡-美式牛排素漢堡、港式叉燒肉素漢堡\n
+        鐵板割包-割包\n
+        QQ地瓜球-地瓜球
+    </string>
+    <string name="NTPfood12">
+        紅豆湯圓-紅豆湯圓\n
+        十全排骨湯-十全排骨\n
+        地瓜球-地瓜球
+    </string>
+    <string name="NTPfood13">
+        阿丁特大塊牛排-牛排\n
+        大腸包小腸-大腸包小腸、烤香腸\n
+        波霸奶茶-波霸奶茶
+    </string>
+    <string name="NTPfood14">
+        水煎包-水煎包\n
+        鶯歌夜市港式脆皮臭豆腐-脆皮臭豆腐、豬血湯\n
+        南雅夜市搖搖冰-搖搖冰
+    </string>
+    <string name="NTPfood15">
+        芋馨鮮芋球-炸芋球\n
+        金蕃薯QQ球-地瓜球\n
+        小琪牛排-牛排、雞腿排\n
+        炭烤雞腿串-炭烤雞腿串\n
+        鮮味花枝旗魚串-花枝旗魚串
+    </string>
+    <string name="NTPfood16">
+        姊妹雙胞胎-雙胞胎\n
+        福州兩相好-雙胞胎\n
+        宋記紅油心蛋-鹹蛋、皮蛋\n
+        芭達桑原住民人文主題餐廳-馬告檸檬蝦、原式打拋豬、竹筒飯
+    </string>
+    <string name="NTPfood17">
+        章魚燒-章魚燒\n
+        烏龍炒麵-烏龍炒麵\n
+        正宗現做潤餅-潤餅
+    </string>
+    <string name="NTPfood18">
+        QQ球-地瓜球\n
+        起司芋頭餅-芋頭蛋黃流沙包\n
+        五股阿嬤古早味蛋餅-古早味蛋餅
+    </string>
+    <string name="NTPfood19">
+        日式醬燒雞肉串-雞肉串\n
+        吳家牛排-牛排\n
+        老牛黑糖珍珠鮮奶-黑糖珍珠鮮奶\n
+        藥燉排骨-藥燉排骨、藥燉土司
+    </string>
+    <string name="NTPfood20">
+        知味鄉玉米-烤玉米\n
+        銅鑼燒-銅鑼燒\n
+        龍鳳腿-龍鳳腿\n
+        七里香碳烤-碳烤、滷味
+    </string>
+    <string name="NTPfood21">
+        大樹下串燒臭豆腐-串燒臭豆腐\n
+        大樹下雪子油飯-油飯、肉粽\n
+        廟口麻辣臭豆腐-麻辣臭豆腐\n
+        深坑老店阿珠芋圓-綜合芋圓
+    </string>
+    <string name="NTPfood22">
+        糖葫蘆-糖葫蘆\n
+        巧味豆乳雞翅-豆乳雞翅\n
+        德式香腸堡-德式香腸堡\n
+        炸彈蔥油餅-蔥油餅
+    </string>
+    <string name="NTPfood23">
+        瑞芳臭豆腐-酥脆臭豆腐\n
+        汐止街仔內米粉湯-米粉湯\n
+        河南鍋貼專賣店-鮮肉鍋貼、水餃\n
+        深坑臭豆腐-炸臭豆腐、紅燒臭豆腐
+    </string>
+    <string name="NTPfood24">
+        呷好運小丸子燒-章魚小丸子\n
+        蚵仔煎/黑輪-蚵仔煎、黑輪\n
+        余記大腸包小腸-大腸包小腸\n
+        沙威瑪-沙威瑪
+    </string>
+    <string name="NTPfood25">
+        碳烤新鮮魷魚-烤魷魚\n
+        超大塊手工串烤臭豆腐-串烤臭豆腐\n
+        吳記排骨酥-排骨酥\n
+        鉄板燒-鐵板燒\n
+        香香地瓜球-地瓜球
+    </string>
+    <string name="NTPfood26">
+       無特別美食推薦
+    </string>
+    <string name="TPEfood">
+        忠誠號蚵仔煎-蚵仔煎\n
+        士林豪大大雞排-雞排\n
+        郭家蔥油餅-蔥油餅\n
+        蕭記碳烤肉捲-碳烤肉捲\n
+        鍾記原上海生煎包-上海生煎包
+    </string>
+    <string name="TPEfood1">
+        阿義魯肉飯-魯肉飯、排骨湯\n
+        北港甜湯-燒麻糬、米糕粥\n
+        福州元祖胡椒餅-胡椒餅\n
+        陳記專業蚵仔麵線-蚵仔麵線\n
+        東港旗魚黑輪-旗魚黑輪
+    </string>
+    <string name="TPEfood2">
+        頂級甜不辣-甜不辣\n
+        懷念愛玉冰-愛玉冰\n
+        梧州街蚵仔伯-蚵仔煎、豬油拌飯\n
+        傳奇黃金地瓜球-地瓜球\n
+        金艋舺紅豆餅-車輪餅
+    </string>
+    <string name="TPEfood3">
+        百年老店東發號蚵仔麵線-蚵仔麵線\n
+        紅燒牛肉麵-牛雜湯-牛肉麵、牛雜湯\n
+        陳董藥燉排骨-藥燉排骨\n
+        麻糬寶寶-麻糬\n
+        下港名彭臭豆腐-麻辣臭豆腐、麻辣鴨血
+    </string>
+    <string name="TPEfood4">
+        藍家割包-割包\n
+        佳興魚丸店-福州魚丸、越香乾麵\n
+        龍潭豆花-豆花+花生\n
+        回味麵粉煎餅-麵粉煎餅\n
+        無名雞蛋糕-雞蛋糕\n
+        晴光紅豆餅-紅豆車輪餅
+    </string>
+    <string name="TPEfood5">
+        山內雞肉飯-雞肉飯、桂竹筍\n
+        台灣第一家碳烤雞排-炭烤雞排、炸雞排\n
+        八棟圓仔湯-湯圓\n
+        橘太郎爆漿雞蛋糕-爆漿雞蛋糕
+    </string>
+    <string name="TPEfood6">
+        温州街蘿蔔絲餅達人-蘿蔔絲餅\n
+        龍泉深海鮮魚湯-鮮魚湯\n
+        好好味港式菠蘿包-菠蘿包\n
+        許記生煎包-生煎包
+    </string>
+    <string name="TPEfood7">
+        無名芋頭餅-芋頭餅\n
+        寧府麻辣鴨血豆腐-麻辣鴨血、麻辣臭豆腐\n
+        御品元冰火湯圓-冰火湯圓、酒釀湯圓\n
+        雅口天香臭豆腐-鍋物、炸臭豆腐、麻辣臭豆腐
+    </string>
+    <string name="TPEfood8">
+        劉芋仔-蛋黃芋餅\n
+        鴻記鐵板燒蔥餅捲-泡菜起司燒麵捲、麻辣起司燒麵捲\n
+        圓環邊蚵仔煎-蚵仔煎\n
+        山東赤肉蒸餃-赤肉蒸餃
+    </string>
+    <string name="TPEfood9">
+        方滷肉飯-滷肉飯\n
+        田沙茶羊肉-炒沙茶羊肉、沙茶炒麵\n
+        重慶豆漿炸蛋餅-炸蛋餅、豆漿\n
+        大龍街香菇赤肉粥-香菇赤肉粥
+    </string>
+    <string name="TPEfood10">
+        大橋頭米糕-米糕、蚵仔豬肝湯\n
+        三重知高飯-知高飯\n
+        嘉義鮑魚海產粥-鮑魚海產粥、炸雞卷\n
+        無名蛋餅-蛋餅、飯糰\n
+        永吉樂羊仔湯屋-清燉羊肉湯、麻油麵線
+    </string>
+    <string name="TPEfood11">
+        景美上海生煎包-菜包、肉包\n
+        張阿姨豬血糕-豬血糕\n
+        快樂QQ球-地瓜球\n
+        光頭哥山豬肉串/香腸-山豬肉串、香腸\n
+        陳記潤餅捲-潤餅捲
+    </string>
+    <string name="TPEfood12">
+        阿富海鮮粥-海鮮粥、炸三鮮\n
+        嘉義雞肉飯-雞肉飯、大腸飯\n
+        高記冰品-楊桃汁、仙草茶\n
+        十九記麻辣燙-麻辣燙
+    </string>
+    <string name="TPEfood13">
+        黑麻糬-原味麻糬、草莓大福\n
+        吳二麻辣鴨血-綜合煲、麻辣鴨血煲\n
+        客家自製湯圓-綜合小湯圓、芝麻湯圓、燒麻糬\n
+        徐淮人家-無菜單料理\n
+        三好一公道涼麵攤-涼麵、酸菜湯、味噌湯
+    </string>
+    <string name="TPEfood14">
+        彈芽麵-二合一乾麵、肉絲炒麵\n
+        石牌生煎包-生煎包\n
+        許記大腸麵線麻辣臭豆腐-大腸麵線、麻辣臭豆腐\n
+        金仙魚丸店-滷肉飯、魚丸湯\n
+        石牌小李-酪梨牛奶、蜂蜜紅蘿蔔汁
+    </string>
+    <string name="TPEfood15">
+        兄弟鹽酥雞-鹽酥雞、魷魚腳、炸中華蛋豆腐\n
+        鵝肉龍-現切鵝肉、鵝肉麵\n
+        施家麻油腰花-麻油腰花、魯肉飯\n
+        嘉義紅心粉圓-雪片黑糖冰
+    </string>
+    <string name="TPEfood16">
+        居和熹湯包-湯包\n
+        豬大郎豬血糕-豬血糕\n
+        何佳佳蔥油餅-蔥油餅\n
+        737麻油雞-麻油雞\n
+        大陳記古早味麵店-醋麵、炸豆腐
+    </string>
+    <string name="TPEfood17">
+        新疆羊肉串-羊肉串\n
+        黃金雞腿肉捲-雞腿肉捲\n
+        一口煎餃-一口煎餃\n
+        日式章魚燒-章魚燒
+    </string>
+    <string name="TYCfood">
+        佑記烤魷魚-烤魷魚\n
+        籃記米腸加香腸-大腸包小腸\n
+        小叮噹牛排-牛排、雞排\n
+        皇尚豆乳雞翅-豆乳雞翅、豆乳雞
+    </string>
+    <string name="TYCfood1">
+        田莊狀元現打西瓜汁-西瓜汁\n
+        夢想街地瓜球-地瓜球\n
+        春沛谷蔥燒包-蔥燒包\n
+        東石王功海之星-蚵仔飽、蝦仁飽\n
+        西班牙油條-吉拿棒
+    </string>
+    <string name="TYCfood2">
+        烤馬鈴薯-烤馬鈴薯\n
+        嘉義順蚵仔煎-蚵仔煎、生炒花枝羮\n
+        張傢店排骨酥-排骨酥\n
+        無名鴨肉麵-鴨肉麵
+    </string>
+    <string name="TYCfood3">
+        簡師傅麻辣臭豆腐-麻辣臭豆腐\n
+        廖家手工潤餅-手工潤餅\n
+        好鮮屋米粉湯-米粉湯、黑白切\n
+        瑞記排骨酥-排骨酥\n
+        溫豆花-花生豆花、綜合豆花
+    </string>
+    <string name="TYCfood4">
+        唐老鴨牛排-牛排\n
+        燒鳥串燒-串燒\n
+        開運屋地瓜球QQ蛋-地瓜球\n
+        包好甲蔥燒包-蔥燒包\n
+        鳥蛋達人-鳥蛋
+    </string>
+    <string name="TYCfood5">
+        現燙魷魚翅-魷魚翅\n
+        海盜王大魷魚-炸魷魚\n
+        火爆雞排-碳烤雞排\n
+        豆腐三兄弟-一口酥、臭豆腐薯條\n
+        荳荳貓手燒-貓手燒
+    </string>
+    <string name="TYCfood6">
+        無特別美食推薦
+    </string>
+    <string name="TYCfood7">
+        深坑劉記碳烤臭豆腐-碳烤臭豆腐\n
+        玫瑰鹽燒雙降牛-牛肉串\n
+        噴水香腸-烤香腸\n
+        蘇記大腸包小腸-大腸包小腸
+    </string>
+    <string name="TYCfood8">
+        真好味牛排-牛排\n
+        碳燒烤肉串-烤肉串\n
+        藥燉排骨-藥燉排骨\n
+        炸物攤-炸物
+    </string>
+    <string name="TYCfood9">
+        無特別美食推薦
+    </string>
+    <string name="TYCfood10">
+        北港蔡媽媽麻油雞飯-麻油雞飯\n
+        古早味刈包-刈包\n
+        拉丁芙蓉餅-芙蓉餅\n
+        上品牛排-牛排\n
+        宏佳寶胡椒餅-碳烤胡椒餅
+    </string>
+    <string name="TYCfood11">
+        萬丹紅豆車輪餅-車輪餅\n
+        新竹肉圓-肉圓、四神湯\n
+        澎湖花枝丸-花枝丸\n
+        菓林夜市臭豆腐-炸臭豆腐
+    </string>
+    <string name="TYCfood12">
+        大塊牛排-牛排\n
+        紅瓦厝手工粉圓-手工粉圓、檸檬粉圓\n
+        現滷鮮滷味-滷味\n
+        手工現炒糖炒栗子-糖炒栗子
+    </string>
+    <string name="TYCfood13">
+        小琪牛排-牛排\n
+        非凡果汁-木瓜牛奶\n
+        炸小卷-炸小卷\n
+        一口肉圓-一口肉圓\n
+        阿田現炸香雞翅-炸雞翅、鹽酥雞
+    </string>
+    <string name="TYCfood14">
+        雞腳財-滷雞腳\n
+        上大烤肉-烤肉\n
+        老黃傳統臭豆腐-炸臭豆腐、醬燒臭豆腐\n
+        東京章魚燒-章魚燒
+    </string>
+    <string name="TYCfood15">
+        台灣秘滷-滷味\n
+        紅燒虱目魚-紅燒虱目魚\n
+        黃佳香烤玉米-烤玉米
+    </string>
+    <string name="TYCfood16">
+        老師傅滷味攤-滷味\n
+        雙胞胎-雙胞胎\n
+        輝哥噴水香腸-烤香腸\n
+        鮮果棧-火龍果汁\n
+        烏魯木齊新疆羊肉串-烤羊肉串
+    </string>
+    <string name="TYCfood17">
+        無特別美食推薦
+    </string>
+    <string name="TYCfood18">
+        無特別美食推薦
+    </string>
+    <string name="TYCfood19">
+        上大烤肉-烤肉\n
+        盧家滷味三杯料理-滷味\n
+        黃金酥炸魷魚-酥炸魷魚
+    </string>
+    <string name="TYCfood20">
+        日式醬燒雞肉串-醬燒雞肉串\n
+        阿坤現滷滷味-滷味\n
+        新陽牛排-牛排
+    </string>
+    <string name="TYCfood21">
+        張媽媽芋頭餅地瓜球-芋頭餅、地瓜球\n
+        8兩重比臉大雞排-醬燒雞排\n
+        新軒一口酥臭豆腐-一口酥臭豆腐\n
+        三峽金牛角-牛角麵包
+    </string>
+    <string name="HSCfood">
+        廟口鴨香飯-鴨香飯\n
+        王記蚵仔煎-蚵仔煎\n
+        雅珍號ㄍㄜㄍㄜ羹-ㄍㄜㄍㄜ羹、肉圓\n
+        周家燒麻糬-燒麻糬
+    </string>
+    <string name="HSCfood1">
+        白鬍子厚切牛排-厚切牛排\n
+        立晉傳統豆花-豆花、綿綿冰、仙草冰\n
+        台南鱔魚意麵-鱔魚意麵、羊肉湯\n
+        蔥大爺餅舖-蔥抓餅
+    </string>
+    <string name="HSCfood2">
+        豪讚東山鴨頭-東山鴨頭\n
+        德計10元燒烤-燒烤\n
+        富美冰果室-手工冰淇淋
+    </string>
+    <string name="HSCfood3">
+        小楊脆腸-滷味\n
+        鳥蛋達人-鳥蛋\n
+        萱蓉爆漿蔥油餅-爆漿蔥油餅\n
+        古早味豬血糕-豬血糕\n
+        山豬肉香腸-山豬肉香腸
+    </string>
+    <string name="HSCfood4">
+        主顧客．燒蛤蜊-烤蛤蜊、烤生蠔\n
+        主顧客．鐵板燒-鐵板雞腿\n
+        吉立現烤烤雞-10元燒烤\n
+        最高牛排-牛排\n
+        御膳皇現炒油飯-麻油雞油飯、櫻花蝦油飯
+    </string>
+    <string name="HSCfood5">
+        脆皮雞腿捲-脆皮雞腿捲\n
+        一番牛排-牛排\n
+        鹹酸甜-蜜餞\n
+        菸錢-烤香腸
+    </string>
+    <string name="HSCfood6">
+        佳湘麵包-麵包\n
+        馬家蔥油餅-蔥油餅\n
+        海哥章魚小丸子-章魚小丸子\n
+        地瓜球-地瓜球\n
+        十米香烤玉米-烤玉米
+    </string>
+    <string name="HSCfood7">
+        烤肉王-烤肉\n
+        中正台地瓜球-地瓜球\n
+        特製雞蛋糕-雞蛋糕\n
+        烤魷魚-烤魷魚
+    </string>
+    <string name="HSHfood">
+        中埔烤肉-烤肉\n
+        陳記炸蛋蔥油餅-炸蛋蔥油餅\n
+        黑豬香腸-烤香腸\n
+        脆皮雞蛋糕-雞蛋糕\n
+        北港地瓜球-地瓜球
+    </string>
+    <string name="HSHfood1">
+        空包蛋星星雞蛋仔-星星雞蛋仔\n
+        波蘭蛋糕-水果蛋糕\n
+        大雅堂地瓜球-地瓜球\n
+        joe.joy 歡樂炸食館雞骨酥-雞骨酥\n
+        尚介香現炒三杯滷味-三杯滷味
+    </string>
+    <string name="HSHfood2">
+        無骨雞腿酥-無骨雞腿酥、排骨酥\n
+        鴻品牛排-牛排\n
+        鐵板麵-鐵板麵\n
+        甘草芭樂-醃芭樂
+    </string>
+    <string name="HSHfood3">
+        臭家莊臭豆腐-清蒸臭豆腐、麻辣臭豆腐\n
+        瘋狂碳烤雞排-碳烤雞排\n
+        鴨霸烤鴨捲餅-烤鴨捲餅\n
+        芋見幸福-大甲芋頭鮮奶
+    </string>
+    <string name="HSHfood4">
+        阿富師蚵仔煎-蚵仔煎\n
+        三隻小豬德國豬腳-德國豬腳\n
+        羊城-羊肉炒麵、羊肉湯
+    </string>
+    <string name="HSHfood5">
+        龍記地瓜球-地瓜球\n
+        美式薯條-美式薯條\n
+        尚介香三杯滷味-三杯滷味\n
+        關西臭豆腐-酥炸臭豆腐
+    </string>
+    <string name="HSHfood6">
+        阿拉伯沙威瑪-沙威瑪\n
+        北港地瓜球-地瓜球\n
+        潤餅-潤餅\n
+        阿枝串燒臭豆腐-串燒臭豆腐\n
+        立哥黑輪-黑輪
+    </string>
+    <string name="HSHfood7">
+        花東西瓜汁-西瓜汁、芒果汁\n
+        鮮炸魷魚-炸魷魚\n
+        脆皮烤麻糬-烤麻糬\n
+        下港烤肉-烤肉\n
+        雙倍起司章魚燒-起司章魚燒
+    </string>
+    <string name="HSHfood8">
+        幸花明太子起司烤餅-明太子起司烤餅\n
+        港式排骨酥-排骨酥\n
+        上大烤肉-烤肉\n
+        萬香美食小吃-豆乳雞、深海冰魚燒
+    </string>
+    <string name="HSHfood9">
+        正宗滷味-滷味\n
+        現煎鳥蛋-鳥蛋\n
+        金城排骨酥-排骨酥
+    </string>
+    <string name="HSHfood10">
+        夜市牛排-牛排\n
+        太空雪花冰-雪花冰\n
+        花蓮後山炸彈蔥油餅-炸彈蔥油餅
+    </string>
+    <string name="HSHfood11">
+       燒仙草-燒仙草\n
+        牛排-牛排\n
+        藥燉排骨-藥燉排骨、藥燉土虱\n
+        天香串烤魷魚-烤魷魚
+    </string>
+    <string name="MALfood">
+        屏東鹽水燻鴨-煙燻鴨肉\n
+        朋記骰子臭豆腐-骰子臭豆腐\n
+        大肥鴨東山鴨頭-東山鴨頭\n
+        祐yo米食甜甜圈-甜甜圈
+    </string>
+    <string name="MALfood1">
+        微豆豆花-豆花\n
+        沛緹麵包-麵包\n
+        牧場ㄋㄟㄋㄟ-鮮奶茶
+    </string>
+    <string name="MALfood2">
+        豐仁冰-綜合冰\n
+        虎咬豬割包-割包\n
+        石板烤肉-石板烤肉
+    </string>
+    <string name="MALfood3">
+        阿福泰國蝦-油炸泰國蝦\n
+        尚豪無骨鳳爪-無骨鳳爪\n
+        西瓜太郎-西瓜汁\n
+        劉家幫豆乳雞翅-豆乳雞\n
+        炭烤滷味攤-炭烤滷味
+    </string>
+    <string name="MALfood4">
+        劉記麻辣臭豆腐-麻辣臭豆腐\n
+        大腳鴨煙燻滷味-煙燻滷味\n
+        吳記梅子Q球-地瓜球\n
+        牛媽媽牛排-牛排
+    </string>
+    <string name="MALfood5">
+        舒巧特泰國料理-涼拌木瓜、椒麻雞腿\n
+        日船章魚小丸子-章魚小丸子\n
+        可樂雞-可樂雞\n
+        雲鶴無骨鳳爪-無骨鳳爪
+    </string>
+    <string name="MALfood6">
+        后里五香鳥蛋-五香鳥蛋\n
+        那一家臭豆腐-炸臭豆腐\n
+        多汁香炸物-炸物\n
+        初滷人-乾式滷味
+    </string>
+    <string name="MALfood7">
+        地瓜QQ蛋-地瓜球\n
+        楊蔥油餅-蔥油餅\n
+        元發現烤沖繩蛋糕-沖繩蛋糕\n
+        台灣9奇雞-炸物\n
+        上好吃迷你火鍋-小火鍋
+    </string>
+    <string name="MALfood8">
+        上海五香臭豆腐-炸五香臭豆腐\n
+        上海煎包-煎包、小湯包\n
+        金三角臭豆腐-鹽酥臭豆腐\n
+        純天然檸檬愛玉-檸檬愛玉、仙草冰
+    </string>
+    <string name="MALfood9">
+        無名人氣蚵仔煎-蚵仔煎\n
+        好吃的叭噗-冰淇淋\n
+        家鄉滷味-滷味
+    </string>
+    <string name="MALfood10">
+        貴鏃牛排-牛排\n
+        串串炸物-串串炸物\n
+        小部三色地瓜球-三色地瓜球
+    </string>
+    <string name="MALfood11">
+        印度阿三甩餅-甩餅\n
+        香香黑石頭碳烤玉米-碳烤玉米\n
+        好朋友糖炒栗子-糖炒栗子
+    </string>
+    <string name="MALfood12">
+        無特別推薦美食
+    </string>
+    <string name="TXGfood">
+        一心臭豆腐-炸臭豆腐\n
+        大甲芋頭城-芋圓綜合冰、芋頭牛奶\n
+        明倫蛋餅-傳統蛋餅\n
+        天使雞排-雞排
+    </string>
+    <string name="TXGfood1">
+        偈亭泡菜鍋-小火鍋\n
+        上和園滷味-滷味\n
+        打餅舖烙餅-手工烙餅\n
+        Mr.38咖哩美食餐廳-藍帶炸豬排咖哩飯
+    </string>
+    <string name="TXGfood2">
+        三代炒麵老擔-炒麵\n
+        阿全虎咬豬-刈包\n
+        中華路臭豆腐蚵仔煎-臭豆腐、蚵仔煎\n
+        陳家牛乳大王-木瓜牛奶
+    </string>
+    <string name="TXGfood3">
+        小川家日式咖哩-元氣飯\n
+        味泉米糕-米糕\n
+        蔡家豆花-綜合豆花\n
+        永德堂薏仁牛奶-薏仁牛奶、木瓜牛奶
+    </string>
+    <string name="TXGfood4">
+        東海小確幸-黑糖波霸鮮奶\n
+        東海蓮心冰雞爪凍-雞爪凍\n
+        東海豆子芋圓-仙草芋園\n
+        東海黑肉圓-清蒸肉圓
+    </string>
+    <string name="TXGfood5">
+        趙記串烤-串烤\n
+        龍之軒古早味炸粿-炸粿\n
+        山東水餃-山東水餃\n
+        三大甜品豆花屋-豆花、嫩仙草、燒仙草
+    </string>
+    <string name="TXGfood6">
+        廟東菱角酥-菱角酥\n
+        廟東清蒸蝦仁肉圓-清蒸蝦仁肉圓\n
+        古客蒜肉飯-蒜肉飯\n
+        金樹冰果室-金樹鳳梨冰\n
+        正兆蚵仔煎-蚵仔煎
+    </string>
+    <string name="TXGfood7">
+        紋綻潤餅-潤餅\n
+        十元串串炸-串串炸\n
+        陳泰泰-泰式奶茶\n
+        菱角酥-菱角酥
+    </string>
+    <string name="TXGfood8">
+        烏魯木齊．新疆烤肉串-烤肉串\n
+        燒仙草-燒仙草、圓仔湯\n
+        洪媽媽鹽水雞-鹽水雞\n
+        古早味迷你石頭火鍋-迷你石頭火鍋\n
+        金牌地瓜球-地瓜球
+    </string>
+    <string name="TXGfood9">
+        三合院古早滷味 -滷味\n
+        丹丹蔥油餅-蔥油餅\n
+        辣騷魚蛋-魚蛋\n
+        吾曹手串-烤肉串\n
+        正牌豬血糕-豬血糕
+    </string>
+    <string name="TXGfood10">
+        吻仔魚-魚丸\n
+        炸蟋蟀-炸蟋蟀\n
+        老甕手工粉圓-手工粉圓\n
+        石頭燒餅-蒜香燒餅\n
+        自然派鮮果茶-鳳香鮮果茶
+    </string>
+    <string name="TXGfood11">
+        麻辣雞爪-雞爪\n
+        地瓜球-地瓜球\n
+        燻芝園滷味-煙燻滷味\n
+        玉米大師-烤玉米
+    </string>
+    <string name="TXGfood12">
+        豪大牛排-牛排\n
+        一口煎餃-一口煎餃\n
+        廟前地瓜球-地瓜球\n
+        雞蛋仔-雞蛋仔
+    </string>
+    <string name="TXGfood13">
+        鹿港蚵仔煎-蚵仔煎\n
+        品客可莉餅-可麗餅\n
+        不一樣的蘿蔔糕-蘿蔔糕、芋泥蘿蔔糕\n
+        林江蔥油餅-蔥油餅
+    </string>
+    <string name="TXGfood14">
+        大甲地瓜球-地瓜球\n
+        魚蛋小吃-魚蛋\n
+        阿珍烤肉-烤肉
+    </string>
+    <string name="TXGfood15">
+        胖虎黑糖珍珠鮮奶茶-黑糖珍珠鮮奶茶\n
+        小蜜蜂手拍窯烤披薩-窯烤披薩\n
+        日式烤麻糬-烤麻糬\n
+        古麗新疆串燒-新疆串燒
+    </string>
+    <string name="TXGfood16">
+        鷄酒屋 功夫世家鍋品-鍋物\n
+        阿珍烤肉-烤肉\n
+        鼎桔有餡地瓜球-有餡地瓜球
+    </string>
+    <string name="TXGfood17">
+        石頭王碳烤玉米-碳烤玉米\n
+        包潤餅-潤餅\n
+        三立牛排-牛排
+    </string>
+    <string name="TXGfood18">
+        鄉之味麵包-麵包\n
+        吳記現炸排骨酥-排骨酥\n
+        烤小卷-烤小卷\n
+        大高雄木瓜牛乳大王-木瓜牛奶
+    </string>
+    <string name="TXGfood19">
+        目前已停止營業
+    </string>
+    <string name="TXGfood20">
+        鹿港香酥蚵仔煎-香酥蚵仔煎\n
+        熊賀佳脆皮湯翅-脆皮湯翅\n
+        何佳佳蔥油餅-蔥油餅\n
+        新疆肉串-新疆肉串
+    </string>
+    <string name="TXGfood21">
+        豐原祖傳鳳梨冰-鳳梨冰、鳳梨茶\n
+        狀元糕-狀元糕\n
+        救命紅茶-古早味紅茶\n
+        搖滾芭樂-甘草芭樂
+    </string>
+    <string name="TXGfood22">
+        紋綻潤餅-潤餅\n
+        10元串串炸-串串炸\n
+        麵線車阿伯-清麵線糊\n
+        黃記滷味-滷味
+    </string>
+    <string name="TXGfood23">
+        豐原祖傳鳳梨冰-鳳梨冰\n
+        一度讚鹹水雞-鹹水雞\n
+        一也豆乳雞-豆乳雞\n
+        炸饅頭-炸饅頭
+    </string>
+    <string name="TXGfood24">
+        雙喜地瓜球-地瓜球\n
+        冰燒綜合圓-綜合圓、燒仙草\n
+        正統烤肉-烤肉\n
+        萬里香味炭烤玉米-炭烤玉米、水煮玉米
+    </string>
+    <string name="TXGfood25">
+        鑫福圓台南手工粉圓-檸檬愛玉\n
+        鴨箱寶東山鴨頭-東山鴨頭\n
+        香酥脆菱角酥-菱角酥\n
+        神戶牛排-牛排
+    </string>
+    <string name="TXGfood26">
+        將軍滷味-滷味\n
+        方臉師傅-滷豆干\n
+        阿嬤的巧手石板烤肉-石板烤肉\n
+        阿忠師無骨鳳爪-無骨鳳爪
+    </string>
+    <string name="TXGfood27">
+        無特別推薦美食
+    </string>
+    <string name="TXGfood28">
+        歐霸起司熱狗-起司熱狗\n
+        滿譯培根肉蛋燒-培根肉蛋燒\n
+        臭美人臭豆腐-臭豆腐
+    </string>
+    <string name="TXGfood29">
+        無特別推薦美食
+    </string>
+    <string name="TXGfood30">
+        地瓜球-地瓜球\n
+        勇蜜汁燒烤-蜜汁燒烤\n
+        勳 紅薯餅-紅薯餅\n
+        福爺木瓜牛奶-木瓜牛奶\n
+        無骨戰鬥雞-醉雞、油雞
+    </string>
+    <string name="TXGfood31">
+        周記水晶雞-鹹水雞\n
+        窯烤赤肉胡椒餅-胡椒餅\n
+        艾菲爾可麗餅-可麗餅\n
+        花月忍者魷魚-炸魷魚
+    </string>
+    <string name="TXGfood32">
+        真好吃地瓜球-地瓜球\n
+        一口酥-一口酥、烤臭豆腐\n
+        大阪牛排-牛排\n
+        新興綜合冷凍豆花-綜合豆花\n
+        無名果汁攤-木瓜牛奶、胡蘿蔔汁
+    </string>
+    <string name="TXGfood33">
+        彎豆冰-冰沙\n
+        花壇白沙坑臭豆腐-炸臭豆腐\n
+        1358辣脆腸-辣脆腸
+    </string>
+    <string name="TXGfood34">
+        無特別推薦美食
+    </string>
+    <string name="TXGfood35">
+        眷村(凱)手作蔥油餅-蔥油餅\n
+        現煎鳥蛋-煎鳥蛋\n
+        高北牛乳大王-木瓜牛乳\n
+        大阪牛排-牛排
+    </string>
+    <string name="TXGfood36">
+        九記煎餃/水煎包-煎餃、水煎包\n
+        雞董炸雞-炸雞\n
+        大腸包小腸-大腸包小腸\n
+        哈金桔-金桔檸檬\n
+        起司章魚燒-起司章魚燒
+    </string>
+    <string name="TXGfood37">
+        現煎鳥蛋滷味-煎鳥蛋、滷鵪鶉蛋\n
+        哈奶族-木瓜牛奶\n
+        阿德師煙燻無骨鳳爪-煙燻無骨鳳爪\n
+        大雅堂地瓜球-地瓜球
+    </string>
+    <string name="TXGfood38">
+        高雄孫家冰滷味-滷味\n
+        眷村蔥油餅-蔥油餅\n
+        微豆豆花-綜合奶油嫩豆花、奶油嫩仙草\n
+        厚片牛排-厚片牛排
+    </string>
+    <string name="TXGfood39">
+        屏東鹹水燻鴨-鹹水鴨、煙燻鴨\n
+        當歸土虱-當歸土虱、藥燉排骨\n
+        小飛雞-唐揚雞
+    </string>
+    <string name="TXGfood40">
+        康家阿媽ㄟ粉腸-粉腸、香腸\n
+        阿香芋圓-綜合芋圓+番薯圓\n
+        一路發冰品-綠豆沙\n
+        三鮮蒸餃-三鮮蒸餃\n
+        手燒蛋糕雞-雞蛋雞
+    </string>
+    <string name="CHWfood">
+        鼎揚東山鴨頭-東山鴨頭\n
+        善田素食-麻油菇飯、菊香素羹湯\n
+        小咕嚕滷味-滷味\n
+        阿博炸雞-炸雞
+    </string>
+    <string name="CHWfood1">
+        張記魩仔魚焿．生炒花枝焿-魩仔魚焿、生炒花枝焿\n
+        烤超級小卷-烤小卷\n
+        祥旺地瓜球-地瓜球\n
+        小嘟嘟迷你小火鍋-石頭火鍋
+    </string>
+    <string name="CHWfood2">
+        宸黑糖粉圓-黑糖粉圓\n
+        源味豆乳雞-豆乳雞\n
+        福滿意麵線糊-麵線糊\n
+        地瓜球-地瓜球、巧克力球
+    </string>
+    <string name="CHWfood3">
+        阿慧羊肉薑絲湯-羊肉薑絲湯\n
+        林家地瓜球-地瓜球\n
+        Churros.Co.吉拿棒-吉拿棒\n
+        好彩頭石頭火鍋-石頭火鍋
+    </string>
+    <string name="CHWfood4">
+        無特別美食推薦
+    </string>
+    <string name="CHWfood5">
+        豬醬子-炸豬排\n
+        滷味-滷味\n
+        鹽酥雞-鹽酥雞
+    </string>
+    <string name="CHWfood6">
+        麻辣魚蛋-魚蛋\n
+        回鮮木瓜牛奶-木瓜牛奶\n
+        阿成炸雞-炸雞\n
+        全家樂清蒸臭豆腐-清蒸臭豆腐\n
+        紐西蘭牛排-牛排
+    </string>
+    <string name="CHWfood7">
+        吳郭豪-烤吳郭魚\n
+        美十綿綿冰-綿綿冰\n
+        兄弟檔牛排-牛排、豬排\n
+        甲一牛排-牛排\n
+        我家臭豆腐-炸臭豆腐、酸菜豬血湯
+    </string>
+    <string name="CHWfood8">
+        馨雞財老牌臭豆腐-臭豆腐\n
+        平價牛排-牛排\n
+        烤蕃薯-烤蕃薯
+    </string>
+    <string name="CHWfood9">
+        東山鴨頭-東山鴨頭\n
+        來來炸雞-炸雞\n
+        炸魷魚-炸魷魚
+    </string>
+    <string name="CHWfood10">
+        火車頭燒烤小攤-燒烤\n
+        佳香牛排-牛排\n
+        手工蛋塔-手工蛋塔、千層派
+    </string>
+    <string name="CHWfood11">
+        豬醬子-炸豬排\n
+        楊桃汁-楊桃汁\n
+        中東口味沙威瑪-沙威瑪
+    </string>
+    <string name="CHWfood12">
+        無特別美食推薦
+    </string>
+    <string name="CHWfood13">
+        好彩頭石頭火鍋-石頭火鍋\n
+        來來牛排-牛排\n
+        麻辣鴨血鍋/清香鍋-麻辣鴨血鍋、清香鍋
+    </string>
+    <string name="CHWfood14">
+        冉冉可麗餅-可麗餅\n
+        黑輪家族-黑輪\n
+        福爺章魚燒-章魚燒\n
+        一品香馬告雞腿酥-馬告雞腿酥
+    </string>
+    <string name="CHWfood15">
+        賀東山鴨頭-東山鴨頭\n
+        鼎峰蚵仔煎-蚵仔煎、黑輪\n
+        夏青雞蛋糕-雞蛋糕\n
+        萬里香烤肉-烤肉
+    </string>
+    <string name="CHWfood16">
+        無特別美食推薦
+    </string>
+    <string name="CHWfood17">
+        火車頭水餃．煎餃-水餃、煎餃\n
+        一品軒豆花-冰豆花\n
+        阿貓脆皮炸雞-脆皮炸雞\n
+        成功牛肉麵-牛肉麵
+    </string>
+    <string name="CHWfood18">
+        永靖廟口蚵仔煎-蚵仔煎\n
+        TK仙草-手工仙草\n
+        愿心燒-炸杏鮑菇、脆薯條
+    </string>
+    <string name="CHWfood19">
+        一口吃臭豆腐-炸臭豆腐\n
+        糯米炸麻吉-喳麻糬\n
+        水果茶-水果茶\n
+        咕咕雞鹽酥雞-鹽酥雞
+    </string>
+    <string name="CHWfood20">
+        東山鴨頭-東山鴨頭\n
+        南北第七家-木瓜牛奶、綠豆沙牛奶\n
+        古早味麥仔煎-麥仔煎\n
+        上大牛排-牛排
+    </string>
+    <string name="CHWfood21">
+        廣聯章魚小丸子-章魚小丸子\n
+        1號櫃台沙威瑪-沙威瑪\n
+        鐵板沙威瑪-沙威瑪\n
+        十八銅人藥膳-藥膳羊排
+    </string>
+    <string name="CHWfood22">
+        無名烤肉攤-烤肉\n
+        街邊義式料理-義大利麵\n
+        施地瓜球-地瓜球
+    </string>
+    <string name="CHWfood23">
+        現烤串燒深坑臭豆腐-深坑臭豆腐\n
+        哈金桔-金桔檸檬\n
+        紅木炭烤肉-烤肉\n
+        樂戀雪淇冰-雪淇冰\n
+        弄牛連牛排-牛排
+    </string>
+    <string name="CHWfood24">
+        無特別推薦美食
+    </string>
+    <string name="CHWfood25">
+        無特別推薦美食
+    </string>
+    <string name="CHWfood26">
+        無特別推薦美食
+    </string>
+    <string name="CHWfood27">
+        天下美食烤鴨夾餅-烤鴨夾餅\n
+        弘記蜜汁燒烤-蜜汁燒烤\n
+        蚵正東海鮮燒烤-烤牡蠣、烤魚\n
+        旺角炒麵-炒麵
+    </string>
+    <string name="CHWfood28">
+        目前已停止營業
+    </string>
+    <string name="CHWfood29">
+        二林可麗餅-可麗餅\n
+        柯佳佳蔥油餅-蔥油餅\n
+        統大炭烤香雞排-碳烤香雞排
+    </string>
+    <string name="CHWfood30">
+        黑石頭碳烤玉米-碳烤玉米\n
+        現做潤餅-潤餅\n
+        2326美食-炸物\n
+        福吟臭豆腐-臭豆腐
+    </string>
+    <string name="CHWfood31">
+        好鄰居牛排-牛排\n
+        素食-素肉\n
+        日船章魚小丸子-章魚小丸子
+    </string>
+    <string name="CHWfood32">
+        美食滷味-滷味\n
+        碳烤雞排-碳烤雞排\n
+        牛舌餅-牛舌餅\n
+        三可食堂麻辣燙-麻辣燙
+    </string>
+    <string name="CHWfood33">
+        埔鹽好修夜市烤肉-烤肉\n
+        葛根養生糕-養生糕、千層派\n
+        地瓜球-地瓜球
+    </string>
+    <string name="CHWfood34">
+        熱狗阿伯-熱狗\n
+        老地方牛排-牛排\n
+        綿綿冰-綿綿冰
+    </string>
+    <string name="CHWfood35">
+        烤魷魚-烤魷魚\n
+        甜不辣-甜不辣\n
+        麵線糊-麵線糊
+    </string>
+    <string name="CHWfood36">
+        銓味香臭豆腐-炸臭豆腐\n
+        盧家牛排-牛排\n
+        蔡羊肉羹麵-羊肉羹麵、魷魚羹麵\n
+        阿蒝酥皮蚵仔煎-酥皮蚵仔煎
+    </string>
+    <string name="CHWfood37">
+        鳥蛋-煎鳥蛋、滷鳥蛋\n
+        大口可麗餅-可麗餅\n
+        正老攤-炸魷魚\n
+        生串燒烤肉-串燒烤肉
+    </string>
+    <string name="CHWfood38">
+        冰糖雪耳-冰糖雪耳\n
+        拔絲地瓜/芋頭-拔絲地瓜、拔絲芋頭\n
+        金宥名月亮蝦餅-月亮蝦餅
+    </string>
+    <string name="CHWfood39">
+        阿伯臭豆腐-炸臭豆腐\n
+        甜心香雞排-香雞排、炸雞翅\n
+        胡麻將爌肉飯-爌肉飯
+    </string>
+    <string name="CHWfood40">
+        京和章魚燒-章魚燒\n
+        呷好康牛排-牛排\n
+        水菓奶酪布丁-奶酪布丁
+    </string>
+    <string name="CHWfood41">
+        重雞來了碳烤雞排-碳烤雞排\n
+        回鮮木瓜牛奶-木瓜牛奶\n
+        古巴三明治-古巴三明治\n
+        大口可麗餅-可麗餅
+    </string>
+    <string name="CHWfood42">
+        素食臭豆腐-炸臭豆腐\n
+        桂香坊冰糖醬滷味-滷味\n
+        八畝田麵包-麵包\n
+        楊記蚵仔煎-蚵仔煎
+    </string>
+    <string name="CHWfood43">
+        日式大阪燒-大阪燒\n
+        牛伯伯牛排-牛排\n
+        椰仁乳-椰仁乳、木瓜牛奶
+    </string>
+    <string name="CHWfood44">
+        無特別美食推薦
+    </string>
+    <string name="NTCfood">
+        阿娘＆阿爹夾心豆干-夾心豆干\n
+        佳樂碳烤三明治-碳烤三明治\n
+        吳記排骨酥-排骨酥\n
+        渃水101紅茶-紅茶\n
+        弘記蜜汁燒烤-蜜汁燒烤
+    </string>
+    <string name="NTCfood1">
+        鹿港蚵仔煎-蚵仔煎\n
+        益康湯包/蒸餃-湯包、蒸餃\n
+        國姓臭豆腐-炸臭豆腐
+    </string>
+    <string name="NTCfood2">
+        佩韓潤餅-潤餅\n
+        鹿港蚵仔煎-蚵仔煎\n
+        橋頭邊肉圓-肉圓\n
+        手工臭豆腐-臭豆腐
+    </string>
+    <string name="NTCfood3">
+        正宗鬍鬚枸杞土虱-枸杞土虱\n
+        炸養生臭豆腐-炸養生臭豆腐\n
+        呷七逃鹹水雞-鹹水雞\n
+        楊記豆花-綜合豆花
+    </string>
+    <string name="NTCfood4">
+        滷狀元-滷味\n
+        南投意麵湯圓-南投意麵、鹹湯圓\n
+        廷和東山鴨頭-東山鴨頭
+    </string>
+    <string name="NTCfood5">
+        阿偉現炒海產-快炒\n
+        新生牛排-牛排\n
+        烤翻碳烤雞排-碳烤雞排\n
+        玉米大師-烤珍珠玉米
+    </string>
+    <string name="NTCfood6">
+        無特別美食推薦
+    </string>
+    <string name="NTCfood7">
+        小上海臭豆腐-臭豆腐、小火鍋\n
+        迷火鍋-小火鍋\n
+        藥燉土虱-藥燉土虱
+    </string>
+    <string name="NTCfood8">
+        幸福味道雞蛋糕-雞蛋糕\n
+        紅薯丸子-地瓜球\n
+        豆花旺燒仙草-燒仙草\n
+        松賀章魚大丸子-章魚大丸子
+    </string>
+    <string name="NTCfood9">
+        香噴噴烤肉-烤肉\n
+        宗洋炸雞-炸雞\n
+        銷魂南投意麵-南投意麵\n
+        綿蜜芋頭甜湯-芋頭甜湯
+    </string>
+    <string name="NTCfood10">
+        松賀章魚大丸子-章魚大丸子\n
+        皇家牛排-牛排\n
+        郭記現炒蛤仔-炒蛤仔\n
+        得哥滷味-滷味
+    </string>
+    <string name="NTCfood11">
+        集集三角骨-鹽酥雞、三角骨\n
+        心太軟臭豆腐-麻辣臭豆腐\n
+        水里肉圓-肉圓\n
+        阿堂師藥燉排骨-藥燉排骨
+    </string>
+    <string name="NTCfood12">
+        油飯-油飯、魩仔魚羹\n
+        四川鳳爪-鳳爪\n
+        茶鋪-茶飲
+    </string>
+    <string name="NTCfood13">
+        台北深坑臭豆腐-深坑臭豆腐\n
+        傑少爺養生黑糖茶磚-黑糖茶磚\n
+        古早味杏仁茶-杏仁茶、油條\n
+        范東山鴨頭-東山鴨頭
+    </string>
+    <string name="NTCfood14">
+        八德夜市關東煮-關東煮\n
+        阿琴海產攤-快炒\n
+        大大自助牛排-牛排
+    </string>
+    <string name="NTCfood15">
+        石玉記香味玉米-烤玉米\n
+        鄭記豆乳雞-豆乳雞\n
+        金碗吃雞-鹹水雞\n
+        深坑臭豆腐-深坑臭豆腐
+    </string>
+    <string name="NTCfood16">
+        無特別美食推薦
+    </string>
+    <string name="NTCfood17">
+        炸魷魚-炸魷魚\n
+        烤小卷-烤小卷\n
+        何獅鐵板另類刈包-鐵板刈包\n
+        皇家牛排-牛排、雞排
+    </string>
+    <string name="NTCfood18">
+        溫莎堡麵包-麵包\n
+        西瓜汁-西瓜汁\n
+        炸蛋蔥油餅-炸蛋蔥油餅\n
+        新生牛排-牛排
+    </string>
+    <string name="YLHfood">
+        雅淳茶吧-水果茶\n
+        程記現炸雞翅-炸物\n
+        牛寶貝古早味粉圓-鮮奶粉圓\n
+        鄒族原木炭烤放山豬-烤山豬肉
+    </string>
+    <string name="YLHfood1">
+        山本牛排-牛排、松阪豬\n
+        旗魚燒-旗魚燒\n
+        脆皮地瓜球-地瓜球
+    </string>
+    <string name="YLHfood2">
+        小園牛排-牛排\n
+        小統一牛排-牛排\n
+        辣炒年糕-辣炒年糕\n
+        旺來古早味豆花-自助式豆花
+    </string>
+    <string name="YLHfood3">
+        呷喀唻-燒肉飯、腿庫飯\n
+        厚片煎餅-花枝煎餅\n
+        招牌咖哩雞飯-咖哩雞飯
+    </string>
+    <string name="YLHfood4">
+        吉鹹水雞-鹹水雞\n
+        北港粉圓-原味粉圓\n
+        86碳烤雞排-碳烤雞排\n
+        營養三明治-營養三明治
+    </string>
+    <string name="YLHfood5">
+        一甲子現打果汁-西瓜原汁、蘋果原汁\n
+        阿田現炸香雞翅-炸物\n
+        腸鮮香腸炒米腸-香腸炒米腸\n
+        強強滾火鍋-小火鍋
+    </string>
+    <string name="YLHfood6">
+        小阿呆豆花-桂花酒釀\n
+        大胖肉羹-肉羹湯\n
+        御品豆乳雞翅-豆乳雞翅\n
+        排隊滷味-滷味
+    </string>
+    <string name="YLHfood7">
+        蔡新營滷味雞腳-滷味\n
+        螺王燒酒螺/煎鳥蛋-燒酒螺、煎鳥蛋\n
+        皮卡丘牛排-牛排
+    </string>
+    <string name="YLHfood8">
+        皇家專業炭烤-炭烤\n
+        東勢脆桃子-醃桃子\n
+        蔡火烤魚-鹽烤魚\n
+        強強滾石頭火鍋-石頭火鍋
+    </string>
+    <string name="YLHfood9">
+        小神戶牛排-牛排\n
+        成吉思汗牛排-牛排\n
+        倆兄弟牛排-牛排\n
+        柯香豆花-豆花\n
+        大岡山豆乳雞-豆乳雞
+    </string>
+    <string name="YLHfood10">
+        無特別美食推薦
+    </string>
+    <string name="YLHfood11">
+        鄭家滷味-滷味\n
+        小阿呆豆花-桂花酒釀、花生湯圓\n
+        呷巧炸雞-炸雞\n
+        大陸臭豆腐-臭豆腐鍋
+    </string>
+    <string name="YLHfood12">
+        滷味-滷味\n
+        大熱狗-米血、熱狗\n
+        太祖魷魚羹-魷魚羹
+    </string>
+    <string name="YLHfood13">
+        日月潭紅茶-茶飲\n
+        冰蛋糕-冰蛋糕\n
+        小新壽司-壽司
+    </string>
+    <string name="YLHfood14">
+        我家牛排-牛排\n
+        斗南鍋貼-鍋貼\n
+        佳湘麵包-麵包\n
+        阿K蚵仔煎-蚵仔煎
+    </string>
+    <string name="YLHfood15">
+        來一客牛排-牛排\n
+        煎鳥蛋-煎鳥蛋\n
+        白東山鴨頭-東山鴨頭
+    </string>
+    <string name="YLHfood16">
+        一品香串串燒-串串燒\n
+        南現炸大魷魚-現炸大魷魚\n
+        品香招牌脆腸-脆腸\n
+        雞蛋燒-雞蛋糕
+    </string>
+    <string name="YLHfood17">
+        虎尾赤肉羹-赤肉羹\n
+        頂山門烤肉-烤肉\n
+        阿丁豆花-豆花\n
+        小園牛排-牛排\n
+        阿娟金桔檸檬-金桔檸檬
+    </string>
+    <string name="YLHfood18">
+        阿輝當歸土虱-當歸土虱\n
+        勝鴻西點麵包-麵包\n
+        日品排骨酥-排骨酥\n
+        阿丁園仔冰-傳統豆花冰、圓仔冰
+    </string>
+    <string name="YLHfood19">
+        古玥茶棧-茶飲\n
+        元品鹽水雞-鹽水雞\n
+        一休壽司-壽司\n
+        小林東山鴨頭-東山鴨頭
+    </string>
+    <string name="YLHfood20">
+        台東林雞腳-滷雞腳\n
+        台西生炒鴨肉羹-生炒鴨肉羹\n
+        鮮茶王-茶飲
+    </string>
+    <string name="YLHfood21">
+        一口香銅鑼燒-銅鑼燒\n
+        章魚燒-章魚燒\n
+        來一客牛排-牛排
+    </string>
+    <string name="YLHfood22">
+        大阿哥碳烤雞排-碳烤雞排\n
+        炸鮮奶-炸鮮奶、炸麻糬\n
+        北港火鍋-小火鍋
+    </string>
+    <string name="YLHfood23">
+        麻的有GO辣-麻辣鴨血煲\n
+        老周冰豆花-冰豆花\n
+        脆皮台中臭豆腐-脆皮臭豆腐\n
+        東西木瓜牛奶-木瓜牛奶
+    </string>
+    <string name="YLHfood24">
+        台西魷魚羹-魷魚羹\n
+        五芳可麗餅-可麗餅\n
+        一口煎餃-一口煎餃
+    </string>
+    <string name="YLHfood25">
+        阿彰小炒-快炒\n
+        御品豆乳雞翅-豆乳雞翅\n
+        鐵板牛排-鐵板牛排
+    </string>
+    <string name="YLHfood26">
+        無特別美食推薦
+    </string>
+    <string name="YLHfood27">
+        專業廚師蚵仔煎-蚵仔煎\n
+        櫻井章魚燒-章魚燒\n
+        陳老二炭烤-炭烤\n
+        小野牛牛排-牛排
+    </string>
+    <string name="CYIfood">
+        珍珍海產粥-海產粥、蚵仔煎\n
+        阿娥豆漿豆花-綜合豆花、油條\n
+        生炒螺肉-炒螺肉\n
+        郭家雞肉飯-粿仔湯、雞肉飯\n
+        龍承綠豆沙牛奶-綠豆沙牛奶
+    </string>
+    <string name="CYIfood1">
+        嘉樂福炭烤-炭烤\n
+        炸彈燒-爆彈燒\n
+        火烤兩吃石頭火鍋-石頭火鍋\n
+        古早味烤肉-烤肉
+    </string>
+    <string name="CYIfood2">
+        賴桑酥皮臭豆腐-酥皮臭豆腐\n
+        鄧肉圓-肉圓\n
+        摘星茶道-茶飲\n
+        古早味阿舜豆花-綜合豆花
+    </string>
+    <string name="CHYfood">
+        新塭蚵嗲-蚵嗲\n
+        朴子豐仁冰-豐仁冰\n
+        新塭水煎包-水煎包
+    </string>
+    <string name="CHYfood1">
+        洪家莊豆花-豆漿豆花\n
+        品客可莉餅-可麗餅\n
+        一品清蒸肉圓-清蒸肉圓\n
+        安得蘆麵包-麵包
+    </string>
+    <string name="CHYfood2">
+        華香豆花-燒豆花、圓仔湯\n
+        黃水上烤肉-烤肉\n
+        新瀛蔥油餅-蔥油餅
+    </string>
+    <string name="CHYfood3">
+        無特別推薦美食
+    </string>
+    <string name="CHYfood4">
+        無特別推薦美食
+    </string>
+    <string name="CHYfood5">
+        一品香排骨酥-排骨酥\n
+        雞腿酥嘉義蒜頭店-雞腿酥\n
+        廟旁牛排-牛排
+    </string>
+    <string name="CHYfood6">
+        滷味-滷味\n
+        章魚燒-章魚燒\n
+        翁氏豆菜麵店-豆菜麵
+    </string>
+    <string name="CHYfood7">
+        東山鴨頭-東山鴨頭\n
+        明味粉翅雞-豆乳雞\n
+        陳三代祖傳臭豆腐-炸臭豆腐
+    </string>
+    <string name="CHYfood8">
+        嘉邑傳統豆花-綜合豆花\n
+        品客可莉餅-可麗餅\n
+        顏素食地瓜球-地瓜球
+    </string>
+    <string name="CHYfood9">
+        尚好美食脆皮煎餃-脆皮煎餃\n
+        嘉義第一家當歸土虱-當歸土虱\n
+        豪品牛排-牛排\n
+        舞動奇雞鹽水雞-鹽水雞
+    </string>
+    <string name="CHYfood10">
+        鳥の燒攤-椒麻雞、香雞排\n
+        丹丹香純手工蔥油餅-蔥油餅\n
+        阿松雞翅-炸雞翅\n
+        楊家牛排-牛排
+    </string>
+    <string name="CHYfood11">
+        無特別美食推薦
+    </string>
+    <string name="CHYfood12">
+        朴子傳統豆花-傳統豆花\n
+        無名越南小吃-炸春捲、河粉\n
+        楊爸專業蜜汁燒烤-蜜汁燒烤
+    </string>
+    <string name="CHYfood13">
+        上賓牛排-牛排\n
+        新港阿易師鴨肉羹-鴨肉羹\n
+        韓輔辣炒年糕-辣炒年糕
+    </string>
+    <string name="CHYfood14">
+        兄妹仔蒙古烤肉-蒙古烤肉\n
+        蔗達人-烤蔗汁\n
+        薛家脆皮臭豆腐-脆皮臭豆腐
+    </string>
+    <string name="CHYfood15">
+        無特別美食推薦
+    </string>
+    <string name="CHYfood16">
+        呷涼茶飲-茶飲\n
+        鳳華滷味-滷味\n
+        小當家豆花-綜合豆花
+    </string>
+    <string name="CHYfood17">
+        一佳香脆皮炸雞-炸雞\n
+        台北老牌蚵仔煎-蚵仔煎\n
+        雅淳水果茶-水果茶\n
+        廣林碳烤-烤肉\n
+        統大碳烤香雞排-碳烤香雞排
+    </string>
+    <string name="CHYfood18">
+        無特別美食推薦
+    </string>
+    <string name="CHYfood19">
+        佳湘麵包-麵包\n
+        35年老牌蚵仔煎-蚵仔煎\n
+        廟口燒仙草-燒仙草
+    </string>
+    <string name="CHYfood20">
+        如久當歸土虱-當歸土虱、藥膳排骨\n
+        我家牛排-牛排\n
+        珍珠屋現煮圓仔湯-圓仔湯、燒仙草
+    </string>
+    <string name="CHYfood21">
+        生炒羊肉-炒羊肉、燴飯\n
+        清秀豆花-綜合豆花\n
+        品盈沙威瑪-沙威瑪
+    </string>
+    <string name="CHYfood22">
+        冷熱豆花-花生豆花\n
+        蚵仔煎-蚵仔煎\n
+        水上魷魚羹-魷魚羹、滷肉飯
+    </string>
+    <string name="CHYfood23">
+        蚵仔麵-蚵仔麵、蚵仔煎\n
+        冷熱豆花-綜合豆花\n
+        兩煎牛排-牛排\n
+        好吃炸魷魚-炸魷魚、炸雞
+    </string>
+    <string name="CHYfood24">
+        無特別美食推薦
+    </string>
+    <string name="CHYfood25">
+        正統牛排-牛排\n
+        飲冰柿茶集-柿果子、柿子冰\n
+        大嘴巴無骨雞腳凍-無骨雞腳凍
+    </string>
+    <string name="TNNfood">
+        酥炸魷魚-炸魷魚\n   白糖粿-白糖粿\n   黑糖Q奶-黑糖Q奶\n
+    </string>
+    <string name="TNNfood1">
+        竹筒飯-竹筒飯\n  涼麵-涼麵\n  印度甩餅-印度甩餅\n
+    </string>
+    <string name="TNNfood2">
+        佳佳蔥油餅-蔥油餅\n
+        黃家涼麵-涼麵\n
+        紐澳良無骨雞腿排-雞腿排\n
+    </string>
+    <string name="TNNfood3">
+        上好旗魚羹-旗魚羹\n
+        蛇肉湯-蛇肉湯\n
+        阿根小炒-炒飯\n
+    </string>
+    <string name="TNNfood4">
+        林記果汁-西瓜汁\n
+        分子冰淇淋-冰淇淋\n
+        烤小卷-烤小卷\n
+    </string>
+    <string name="TNNfood5">
+        黑妞黑糖糕-黑糖糕\n  杏仁茶油條-杏仁茶油條\n  老街黑糖鮮奶鋪-黑鮮奶茶\n
+    </string>
+    <string name="TNNfood6">
+        灣裡花枝意麵-花枝意麵\n  豆乳雞翅-豆乳雞翅\n  蘇記酥皮濃湯-酥皮濃湯\n
+    </string>
+    <string name="TNNfood7">
+        劉家現炸熱狗-熱狗\n  薛記春捲-春捲\n   揚州炒飯-炒飯\n
+    </string>
+    <string name="TNNfood8">
+        大腸麵線-炒飯\n  無骨鴨肉羹-鴨肉羹\n  蒙古烤肉-炒飯\n
+    </string>
+    <string name="TNNfood9">
+        芋仔餅-芋仔餅\n  碗公如-麻辣鴨血\n  木瓜大王-木瓜牛奶\n
+    </string>
+    <string name="TNNfood10">
+        馬告雞腿酥-雞腿酥\n   冰火菠蘿泡芙-菠蘿泡芙\n  菇婆杏鮑菇-杏鮑菇\n
+    </string>
+    <string name="TNNfood11">
+        德國豬腳-德國豬腳\n  蔡師傅魯味-魯味\n  木瓜牛奶-木瓜牛奶\n
+    </string>
+    <string name="TNNfood12">
+        可莉餅-可莉餅\n  綠豆沙-綠豆沙\n  河南地瓜球-地瓜球\n
+    </string>
+    <string name="TNNfood13">
+        汁優生-果汁\n  波霸黑糖拿鐵-黑糖拿鐵\n   醬燒雞排-醬燒雞排\n
+    </string>
+    <string name="TNNfood14">
+        薯來寶現烤馬林薯-烤馬林薯\n  幸福麻辣鴨血-麻辣鴨血\n
+    </string>
+    <string name="TNNfood15">
+        炭烤玉米-烤玉米\n  古早味麵線糊-麵線糊\n  南工蔥油餅-蔥油餅\n
+    </string>
+    <string name="TNNfood16">
+        小肥石板燒-石板燒\n  泰餃情泰式餃子-辛香酸辣煎餃\n  芋頭牛奶-芋頭牛奶\n
+    </string>
+    <string name="TNNfood17">
+        小上海香酥雞-香酥雞\n  我家一口煎餃-煎餃\n  老莫臭豆腐\n
+    </string>
+    <string name="TNNfood18">
+        魔力雞排-雞排\n  燒仙草-燒仙草\n  關東煮-關東煮\n
+    </string>
+    <string name="TNNfood19">
+        泰準泰式打拋飯-泰式打拋飯\n  古早味雞蛋冰-雞蛋冰\n  石頭餅-石頭餅\n
+    </string>
+    <string name="TNNfood20">
+        旺來地乖球-地瓜球\n  佳佳蔥油餅-蔥油餅\n  冬瓜茶-冬瓜茶\n
+    </string>
+    <string name="TNNfood21">
+        三色地瓜球-地瓜球\n  大碗公古早豆花-豆花\n  甘草芭樂-甘草芭樂\n
+    </string>
+    <string name="TNNfood22">
+        清葉鹽酥臭豆腐-臭豆腐\n  炸彈蔥油餅-炸彈蔥油餅\n  肉燥飯-肉燥飯\n
+    </string>
+    <string name="TNNfood23">
+        宏青鹽水雞-鹽水雞\n  雪淇冰-雪淇冰\n  蔥油餅-蔥油餅
+    </string>
+    <string name="TNNfood24">
+        熊記麻辣鴨血臭豆腐-麻辣鴨血臭豆腐\n  次郎壽司-壽司\n  手工披薩-披薩\n
+    </string>
+    <string name="TNNfood25">
+        印度拉茶-印度拉茶\n  炭烤珍珠玉米-烤玉米\n  傳統豆花-豆花\n
+    </string>
+    <string name="TNNfood26">
+        安得蘆麵包-麵包\n  加佳牛排-牛排\n  沙威瑪-沙威瑪\n
+    </string>
+    <string name="TNNfood27">
+        鮮奶雞蛋糕-雞蛋糕\n  石頭玉米-烤玉米\n  鴨肉油飯-鴨肉油飯\n
+    </string>
+    <string name="TNNfood28">
+        山藥球-山藥球\n   脆皮檸檬香雞排-香雞排\n  永大魚翅羹-魚翅羹\n
+    </string>
+    <string name="TNNfood29">
+        佳味雞腳-雞腳\n  綜合刨冰-刨冰\n  李董鍋貼-鍋貼\n
+    </string>
+    <string name="TNNfood30">
+        手工煎餃-煎餃\n  唐揚炸雞-炸雞\n  冬瓜茶-冬瓜茶\n
+    </string>
+    <string name="TNNfood31">
+        可仁仔無骨鴨肉-鴨肉羹\n  東山鴨頭-東山鴨頭\n  椰奶榴槤-椰奶榴槤\n
+    </string>
+    <string name="TNNfood32">
+        起司厚蛋燒-起司厚蛋燒\n   羅記大尾魷魚-烤魷魚\n  生魚片-生魚片\n
+    </string>
+    <string name="TNNfood33">
+        豆乳雞翅-豆乳雞翅\n   煎鳥蛋-煎鳥蛋\n  東東地瓜球-地瓜球\n
+    </string>
+    <string name="TNNfood34">
+        珍珠奶茶-珍珠奶茶\n  莊記鹽酥雞-鹽酥雞\n   刨冰-刨冰\n
+    </string>
+    <string name="TNNfood35">
+        石板烤肉-石板烤肉\n   霜淇淋-霜淇淋\n   古早味粉圓-先奶粉圓\n
+    </string>
+    <string name="TNNfood36">
+        施利涼麵-涼麵\n  壽司-壽司\n  一口天泡菜火鍋-泡菜火鍋\n
+    </string>
+    <string name="TNNfood37">
+        炒花枝-炒花枝\n  炒飯-炒飯\n  蚵仔煎-蚵仔煎\n
+    </string>
+    <string name="TNNfood38">
+        生炒無骨鴨肉羹-鴨肉羹\n  炒米粉-炒米粉\n  冬瓜茶-冬瓜茶\n
+    </string>
+    <string name="TNNfood39">
+        好小子現炒-蔥爆炒牛肉\n  烤雞肉串-雞肉串\n  川味魚蛋-魚蛋\n
+    </string>
+    <string name="TNNfood40">
+        檸檬山粉圓-檸檬山粉圓\n	 炸白糖粿-炸白糖粿\n	豬心冬粉-豬心冬粉\n
+    </string>
+    <string name="TNNfood41">
+        炭烤-炭烤\n  章魚燒-章魚燒\n  滷雞腳-滷雞腳\n
+    </string>
+    <string name="TNNfood42">
+        燒仙草-燒仙草\n  刨冰-刨冰\n   清蒸臭豆腐-清蒸臭豆腐\n
+    </string>
+    <string name="TNNfood43">
+        火鍋-火鍋\n  炸皮蛋-炸皮蛋\n  牛排-牛排\n
+    </string>
+    <string name="TNNfood44">
+        豪記炸彈蔥油餅-炸彈蔥油餅\n  大內蚵嗲-蚵嗲\n   大內阿江麵店-乾麵\n
+    </string>
+    <string name="TNNfood45">
+        麻油雞湯-麻油雞湯\n  牛肉湯-牛肉湯\n  蘆筍汁-蘆筍汁\n
+    </string>
+    <string name="TNNfood46">
+        臭豆腐-臭豆腐\n  豬血湯-豬血湯\n  東山鴨頭-東山鴨頭\n
+    </string>
+    <string name="TNNfood47">
+        李家烤肉-烤肉\n  炒飯燴飯-羊肉燴飯\n  丹丹蔥油餅-蔥油餅\n
+    </string>
+    <string name="TNNfood48">
+        無特別美食推薦
+    </string>
+    <string name="TNNfood49">
+        OK鹽酥雞-鹽酥雞\n  秀碧蚵爹-蚵爹\n  長盈虱目魚香腸-蚵仔麵線\n
+    </string>
+    <string name="TNNfood50">
+        無骨炸雞塊-炸雞塊\n   哈哈哈臭豆腐-臭豆腐\n  鮮蝦丸子-鮮蝦丸子\n
+    </string>
+    <string name="TNNfood51">
+        麻辣燙-麻辣燙\n  炒飯-炒飯\n  麻油雞麵線-麻油雞麵線\n
+    </string>
+    <string name="TNNfood52">
+        吳家排骨酥-排骨酥\n  杏仁茶-杏仁茶\n  火鍋-火鍋\n
+    </string>
+    <string name="TNNfood53">
+        炒泡麵-炒泡麵\n  豆乳雞-豆乳雞\n   炸魷魚-炸魷魚\n
+    </string>
+    <string name="TNNfood54">
+        石頭火鍋-石頭火鍋\n  當歸土虱頭-當歸土虱頭\n  炒鴨肉麵-炒鴨肉麵\n
+    </string>
+    <string name="TNNfood55">
+        康家豆花-豆花\n  蔥油餅-蔥油餅\n  地瓜球-地瓜球\n
+    </string>
+    <string name="TNNfood56">
+        鹹水雞-鹹水雞\n   雞蛋糕-雞蛋糕\n  爆漿蔥油餅-爆漿蔥油餅\n
+    </string>
+    <string name="TNNfood57">
+        香酥雞-香酥雞\n  鳥蛋-鳥蛋\n  臭豆腐-臭豆腐\n
+    </string>
+    <string name="TNNfood58">
+        無特別美食推薦
+    </string>
+    <string name="TNNfood59">
+        中埔烤肉-烤肉\n  阿松雞翅-雞翅\n  脆皮章魚燒-章魚燒\n
+    </string>
+    <string name="TNNfood60">
+        波士頓派-波士頓派\n  排骨酥-排骨酥\n  花田燒-花田燒\n
+    </string>
+    <string name="KHHfood">
+        六師傅泰國蝦-考泰國蝦\n  土魠魚羹-土托魚羹\n  吳家羊肉-炒羊肉飯\n
+    </string>
+    <string name="KHHfood1">
+        純正愛玉冰-愛玉冰\n   山西手工刀削麵-刀削麵\n   聰明鴨肉店-鴨肉店\n
+    </string>
+    <string name="KHHfood2">
+        鴨香寶烤鴨夾餅-烤鴨夾餅\n   帝王蟹肉棒-蟹肉棒\n  道地西班牙頓飯-西班牙頓飯\n
+    </string>
+    <string name="KHHfood3">
+        深夜的法式甜點-法式甜點\n   炭烤雞排-炭烤雞排\n   美式脆薯-美式脆薯\n
+    </string>
+    <string name="KHHfood4">
+        前鎮夜市海產宗-炒蟹肉\n   麵線羹臭豆腐-麵線羹、臭豆腐\n  前鎮夜市35號攤-煎餃\n
+    </string>
+    <string name="KHHfood5">
+        禾豐蝦米飯-蝦米飯\n  輝哥鱔魚花枝麵-鱔魚意麵\n   潮州牛肉-炒牛肉
+    </string>
+    <string name="KHHfood6">
+        韓記香酥豆腐-香酥豆腐\n  張家肉圓-肉圓\n  吳家石頭餅-石頭餅\n
+    </string>
+    <string name="KHHfood7">
+        湖南串燒-串燒\n  魏記台北紅麵線-紅麵線\n  茶香豆干-茶香豆干\n
+    </string>
+    <string name="KHHfood8">
+        頤和園手工蔥抓餅-蔥抓餅\n  港式脆皮臭豆腐-臭豆腐\n  京品壽司-壽司\n
+    </string>
+    <string name="KHHfood9">
+        員軒臭臭鍋-臭臭鍋\n  吉羊薯薯-薯條\n   花雕雞麵-花雕雞麵\n
+    </string>
+    <string name="KHHfood10">
+        東山鴨頭-東山鴨頭\n   花媽的炭烤-炭烤\n    台灣第一家鹽酥雞-鹽酥雞\n
+    </string>
+    <string name="KHHfood11">
+        香酥排骨-香酥排骨\n    真正香-炸雞翅\n  涼圓-涼圓\n
+    </string>
+    <string name="KHHfood12">
+        林家冰品-八寶冰\n    黃家滷味-黃家滷味\n   南豐滷肉飯-滷肉飯\n
+    </string>
+    <string name="KHHfood13">
+        鹽水雞-鹽水雞\n   熊家湯包-湯包\n   潤餅大王-潤餅\n
+    </string>
+    <string name="KHHfood14">
+        一流羊肉店-特味山羊肉\n   麻辣燙-麻辣燙\n   香菇肉羹-香菇肉羹
+    </string>
+    <string name="KHHfood15">
+        沙威瑪-沙威瑪\n    品軒黑輪-關東煮\n   張家豪台式功夫甜品-紫米牛奶\n
+    </string>
+    <string name="KHHfood16">
+        駁二春捲冰淇淋-春捲冰淇淋\n   豆爸豆花-豆花\n  妙香火鍋-火鍋\n
+    </string>
+    <string name="KHHfood17">
+        內惟美食自助餐-自助餐\n  炙燒飯糰-炙燒飯糰\n  香香火鍋-火鍋\n
+    </string>
+    <string name="KHHfood18">
+        海產粥-海產粥\n  砂鍋魚頭-砂鍋魚頭\n    胡椒餅-胡椒餅\n
+    </string>
+    <string name="KHHfood19">
+        貞香滷味-滷味\n    中華市鹽酥雞-鹽酥雞\n   貞香小吃-小吃\n
+    </string>
+    <string name="KHHfood20">
+        大灣烤雞五甲店-烤雞\n  洪記蒸餃-蒸餃\n   阿英美濃板條-板條\n
+    </string>
+    <string name="KHHfood21">
+        翠鈺創意鍋燒麵-鍋燒麵\n   炒泡麵-炒泡麵\n  美美樂美式炸雞-炸雞\n
+    </string>
+    <string name="KHHfood22">
+        中崙蚵仔煎-蚵仔煎\n   廣東粥-廣東粥\n   蛋炒飯-蛋炒飯\n
+    </string>
+    <string name="KHHfood23">
+        牛B葫蘆王-糖葫蘆\n  辣脆腸-黑輪\n   營養炭烤雞排-炭烤雞排\n
+    </string>
+    <string name="KHHfood24">
+        祖傳麻油雞-麻油雞\n   珍味壽司-壽司\n  鐵板燒肉捲-鐵板燒肉捲\n
+    </string>
+    <string name="KHHfood25">
+        大虎茶堂-豆花\n   日式大阪燒-日式大阪燒\n   無骨雞爪-無骨雞爪\n
+    </string>
+    <string name="KHHfood26">
+        一口留香豬血糕-豬血糕\n   後山炸蛋蔥油餅-炸蛋蔥油餅\n   脆皮烤豬三明治\n
+    </string>
+    <string name="KHHfood27">
+        川味魚蛋-魚蛋\n   陳家石頭餅-石頭餅\n  恬圓布丁豆花-布丁豆花\n
+    </string>
+    <string name="KHHfood28">
+        正宗楊桃湯-楊桃湯\n   香港嘴雞蛋仔-雞蛋仔\n  古早味蛋餅-蛋餅\n
+    </string>
+    <string name="KHHfood29">
+        石頭燒餅-石頭燒餅\n   起司馬林薯-起司馬林薯\n   牽絲章魚燒-牽絲章魚燒\n
+    </string>
+    <string name="KHHfood30">
+        港式奶茶-港式奶茶\n   雪淇淋-雪淇淋\n   林味炸雞塊-炸雞塊\nn
+    </string>
+    <string name="KHHfood31">
+        香QQ鵝蛋-烤鵝蛋\n    一休的壽司-壽司\n   佳和煙燻-鴨頭\n
+    </string>
+    <string name="KHHfood32">
+        鹿野鵝肉莊-鵝肉\n   阿忠土魠魚羹-土魠魚羹\n   大饌章魚燒小丸子聯盟-章魚小丸子\n
+    </string>
+    <string name="KHHfood33">
+        日品排骨酥-排骨酥\n  牧甜粉粿-粉粿\n  煎湯包-煎湯包\n
+    </string>
+    <string name="KHHfood34">
+        膳串燒烤-烤肉\n  橋仔頭黃家肉燥飯-肉燥飯\n   五里林肉包饅頭-肉包\n
+    </string>
+    <string name="KHHfood35">
+        無特別美食推薦
+    </string>
+    <string name="KHHfood36">
+        港式燒賣-港式燒賣\n   美國大脆薯-脆薯\n  小米奶油球-奶油球\n
+    </string>
+    <string name="KHHfood37">
+        品元德國豬腳-德國豬腳\n   烤玉米-烤玉米\n  滷雞腳-滷雞腳\n
+    </string>
+    <string name="KHHfood38">
+        卡滋脆煎餅-煎餅\n   盧爺古早味-鴨肉麵\n  老爺子的拉麵店-牛肉拉麵\n
+    </string>
+    <string name="KHHfood39">
+        羅媽媽日式手工雙醬涼麵-涼麵\n  一口肉圓-肉圓\n  麥克脆皮炸雞-炸雞\n
+    </string>
+    <string name="KHHfood40">
+        炒麵-炒麵\n  關東煮-關東煮\n  魚翅羹-魚翅羹\n
+    </string>
+    <string name="KHHfood41">
+        鹽水雞-鹽水雞\n   煎餃-煎餃\n   烤魷魚-烤魷魚\n
+    </string>
+    <string name="KHHfood42">
+        潘潘咖啡-咖啡\n  農夫生活-香檬愛玉\n  豆花-豆花\n
+    </string>
+    <string name="KHHfood43">
+        烤玉米-烤玉米\n  石頭火鍋-火鍋\n  黑胡椒鐵板麵-鐵板麵\n
+    </string>
+    <string name="KHHfood44">
+        香香茶葉蛋-茶葉蛋\n  鐵板沙威瑪-鐵板沙威瑪\n  可麗餅-可麗餅\n
+    </string>
+    <string name="KHHfood45">
+        永瑄牛排-牛排\n     無名燒烤攤-燒烤\n   陳美蓉蚵仔煎-蚵仔煎\n
+    </string>
+    <string name="PIFfood">
+        上好肉粽-肉粽\n  手工麵-魚丸湯\n 鹽酥雞-鹽酥雞\n
+    </string>
+    <string name="PIFfood1">
+        戰鬥雞-雞腿\n  清香快炒-客家小炒\n 手工煎包-水煎包\n
+    </string>
+    <string name="PIFfood2">
+        豬血糕-豬血糕\n  佳承煙燻滷味-滷味\n  小潘大腸包小腸-大腸包小腸\n
+    </string>
+    <string name="PIFfood3">
+        明恩黑糖粉圓冰-黑糖粉圓冰\n  土虱大王-當歸土虱\n  炸彈蔥油餅-蔥油餅\n
+    </string>
+    <string name="PIFfood4">
+        阿秀越南小吃-炸春捲\n  哈妮可麗餅-可麗餅\n  小叮噹火鍋-火鍋\n
+    </string>
+    <string name="PIFfood5">
+        蔥油酥麵線-蔥油酥麵線\n  丹丹蔥油餅-蔥油餅\n 我家好牛排-牛排\n
+    </string>
+    <string name="PIFfood6">
+        無特別美食推薦
+    </string>
+    <string name="PIFfood7">
+        珍珠玉米-烤玉米\n 小火鍋-小火鍋\n  東山鴨頭-東山鴨頭\n
+    </string>
+    <string name="PIFfood8">
+        新園汕頭火鍋-汕頭火鍋\n   川味牛肉麵-牛肚滷\n
+    </string>
+    <string name="PIFfood9">
+        無特別美食推薦
+    </string>
+    <string name="PIFfood10">
+        炸QQ蛋-地瓜球\n  小籠湯包-小籠湯包\n  炸彈麵包-炸彈麵包\n
+    </string>
+    <string name="PIFfood11">
+        劉家餛飩創意麵食-泰式酸辣餛飩\n  胖叔叔霸機排-酥炸鮪魚肚\n  德式脆皮豬腳-脆皮豬腳\n
+    </string>
+    <string name="PIFfood12">
+        芒果冰 -芒果冰 \n  印度原味拉茶-印度原味拉茶\n  地瓜球-地瓜球\n
+    </string>
+    <string name="PIFfood13">
+        龔記臭豆腐-臭豆腐\n  日船章魚小丸子-章魚小丸子\n  老地方冰果室-黑糖剉冰\n
+    </string>
+    <string name="PIFfood14">
+        西瓜牛奶-西瓜牛奶\n  南州廟口推車鹹酥雞-鹹酥雞\n  肉圓-肉圓\n
+    </string>
+    <string name="PIFfood15">
+        韓式辣炒年糕-韓式辣炒年糕\n  京阪神雞腿排\雞腿排\n 吳記排骨酥-排骨酥\n
+    </string>
+    <string name="PIFfood16">
+        旗津燒酒螺-燒酒螺\n  粉圓鮮奶-粉圓鮮奶\n  美味炭烤-炭烤\n
+    </string>
+    <string name="PIFfood17">
+        一口酥臭豆腐-一口酥臭豆腐\n  繽紛炸玉米-炸玉米\n  天津糖炒栗子-糖炒栗子\n
+    </string>
+    <string name="PIFfood18">
+        杏仁茶油條-杏仁茶油條\n  萬丹紅豆餅-紅豆餅\n  好粥到-廣東粥\n
+    </string>
+    <string name="PIFfood19">
+        日船章魚燒-章魚燒\n  鳥蛋\鳥蛋\n  黑砂糖剉冰-黑砂糖剉冰\n
+    </string>
+    <string name="PIFfood20">
+        澎湖炸魷魚-炸魷魚\n  涼拌滷味-雞腳\n  大阪燒-大阪燒\n
+    </string>
+    <string name="PIFfood21">
+        花枝煎-花枝煎\n  脆皮雞排-脆皮雞排\n  古早味糖葫蘆-糖葫蘆\n
+    </string>
+    <string name="PIFfood22">
+        焦糖奶酪-焦糖奶酪\n  蚵仔煎-蚵仔煎\n  章魚燒-章魚燒\n
+    </string>
+    <string name="PIFfood23">
+        臭豆腐-臭豆腐\n  可麗餅-可麗餅\n  鹽酥雞-鹽酥雞\n
+    </string>
+    <string name="PIFfood24">
+        小米Q雞蛋糕-雞蛋糕\n  芝麻花生麻糬-芝麻花生麻糬\n  地瓜薯泥-地瓜薯泥\n
+    </string>
+    <string name="PIFfood25">
+        炭烤-烤肉\n  滷雞腳-滷雞腳\n 蚵仔煎-蚵仔煎\n
+    </string>
+    <string name="PIFfood26">
+        無特別美食推薦
+    </string>
+    <string name="PIFfood27">
+        無特別美食推薦
+    </string>
+    <string name="PIFfood28">
+        花枝排-花枝排\n  鹽水雞-鹽水雞\n 地瓜球-地瓜球\n
+    </string>
+    <string name="PIFfood29">
+        韓式辣炒年糕-韓式辣炒年糕\n  牛小排-牛小排\n  雞腿-雞腿\n
+    </string>
+    <string name="PIFfood30">
+        西瓜汁-西瓜汁\n  木瓜牛奶\n
+    </string>
+    <string name="PIFfood31">
+        無特別美食推薦
+    </string>
+    <string name="ILAfood">
+        堂薯薯臭薯條-臭薯條\n   王老吉懷舊滷味-滷味\n  福飽脆皮刈包-國宴鴨賞脆皮刈包\n
+    </string>
+    <string name="ILAfood1">
+        林家潤餅-潤餅\n  彭氏蔥油餅-蔥油餅\n  老店豆花-豆花\n
+    </string>
+    <string name="ILAfood2">
+        炭烤臭豆腐-炭烤臭豆腐\n  烤地瓜-烤地瓜\n  無骨排骨酥-無骨排骨酥\n
+    </string>
+    <string name="ILAfood3">
+        花生捲冰淇淋-花生捲冰淇淋\n   手工小籠包-手工小籠包\n  鐵板豆腐-鐵板豆腐\n
+    </string>
+    <string name="ILAfood4">
+        印度抓餅-印度抓餅 \n   泰式奶茶-泰式奶茶\n   石板烤肉-石板烤肉\n
+    </string>
+    <string name="ILAfood5">
+        糖葫蘆-糖葫蘆\n   現炸臭豆腐-現炸臭豆腐\n  燒酒螺-燒酒螺\n
+    </string>
+    <string name="ILAfood6">
+        番茄梅子糖葫蘆-番茄梅子糖葫蘆\n  小米甜甜圈-甜甜圈\n  師哥水果茶-鳳梨水果茶\n
+    </string>
+    <string name="ILAfood7">
+        無特別美食推薦
+    </string>
+    <string name="ILAfood8">
+        樂成烤肉-烤肉串\n  椰子乳-椰子汁\n  羊肉炒麵-羊肉炒麵\n
+    </string>
+    <string name="ILAfood9">
+        無特別美食推薦
+    </string>
+    <string name="HUNfood">
+        林記燒番麥-烤玉米\n 原醉-潔西卡\n 馬告炒麵刈包-刈包\n
+    </string>
+    <string name="HUNfood1">
+        青蛙下蛋-青蛙下蛋\n  烤香腸-烤香腸\n  蔥油餅-蔥油餅\n
+    </string>
+    <string name="HUNfood2">
+        鳥蛋-鳥蛋\n  西瓜汁-西瓜汁\n  烤魷魚-烤魷魚\n
+    </string>
+    <string name="HUNfood3">
+        芒果冰-芒果冰沙\n  當歸土虱-當歸土虱\n  韓式熱狗-韓式熱狗\n
+    </string>
+    <string name="HUNfood4">
+        煎餅-煎餅\n  手工水餃-水餃\n   手工芋圓-手工芋圓\n
+    </string>
+    <string name="HUNfood5">
+        霜淇淋-霜淇淋\n  臭豆腐-臭豆腐\n 木瓜牛奶-木瓜牛奶\n
+    </string>
+    <string name="HUNfood6">
+        糖炒栗子-糖炒栗子\n 青蛙撞奶-珍珠奶茶\n 現烤PIZZA-PIZZA\n
+    </string>
+    <string name="HUNfood7">
+        章魚燒-章魚燒\n  潤餅-潤餅\n 藥燉排骨-藥燉排骨\n
+    </string>
+    <string name="HUNfood8">
+        老夫子牛排-牛排\n 芋頭餅-芋頭餅\n 炸饅頭-炸饅頭\n
+    </string>
+    <string name="HUNfood9">
+        麻辣豆腐鴨血-麻辣豆腐鴨血\n  QQ屋-地瓜球\n  炸雞-炸雞\n
+    </string>
+    <string name="HUNfood10">
+        劉記牛排-牛排\n 檸檬愛玉-檸檬愛玉\n	 麻辣豆腐鴨血-麻辣豆腐鴨血\n
+    </string>
+    <string name="HUNfood11">
+        家園小吃店-乾麵\n   青葉小館-炸豬皮\n  阿美土產店-白斬土雞\n
+    </string>
+    <string name="HUNfood12">
+        炸雞塊-炸雞塊\n  木瓜牛奶-木瓜牛奶\n  來客牛排-牛排\n
+    </string>
+    <string name="HUNfood13">
+        無煙烤肉-烤肉串\n  手工蛋糕-拿破崙千層派\n 燒仙草-燒仙草\n
+    </string>
+    <string name="HUNfood14">
+        富源廟口小吃-牛肉炒飯\n  富源越南小吃-牛肉河粉\n  原饗屋-麻辣雞腳\n
+    </string>
+    <string name="HUNfood15">
+        脆皮炸雞-炸雞\n  紅豆湯圓-紅豆湯圓\n 起司馬鈴薯-起司馬鈴薯\n
+    </string>
+    <string name="HUNfood16">
+        黃記烤玉米-烤玉米\n  傳統豆花-豆花\n  可麗餅-可麗餅\n
+    </string>
+    <string name="HUNfood17">
+        酥皮濃湯-酥皮濃湯\n  酥炸魷魚-酥炸魷魚\n  脆皮雞蛋糕-脆皮雞蛋糕\n
+    </string>
+    <string name="HUNfood18">
+        燒仙草-燒仙草\n  臭豆腐-臭豆腐\n 鳥蛋-鳥蛋\n
+    </string>
+    <string name="TTTfood">
+        正宗烤肉刈包-刈包\n  老刁碳烤玉米-烤玉米\n 	阿鋐炸雞-炸雞\n  明奎早餐店-法式厚片\n 林家臭豆腐-臭豆腐\n
+    </string>
+    <string name="TTTfood1">
+        蚵仔煎冬粉鴨-蚵仔煎\n  黑松羊肉爐-羊肉爐\n	章魚小丸子-章魚小丸子\n  阿明東山鴨頭-鴨血\n
+    </string>
+    <string name="TTTfood2">
+        小乖涼拌滷味-各式冷滷味\n 台東地瓜球-地瓜球\n 品客牛排-牛排\n	台東張家香腸-香腸\n 大腸麵線-大腸麵線\nn
+    </string>
+    <string name="TTTfood3">
+        鹹酥雞-鹹酥雞\n 小米甜甜圈-甜甜圈\n 炒米粉-炒米粉\n
+    </string>
+    <string name="TTTfood4">
+        彩色棉花糖-彩色棉花糖\n 燒酒螺-燒酒螺\n  雞排店-炸雞排\n
+    </string>
+    <string name="TTTfood5">
+        碳烤攤-碳烤\n  烤山豬肉-烤山豬肉\n  雞蛋糕-雞蛋糕\n
+    </string>
+    <string name="TTTfood6">
+        藥燉土虱-藥燉土虱\n  鐵板麵-鐵板麵\n  蚵仔煎-蚵仔煎\n
+    </string>
+    <string name="TTTfood7">
+        印度甩餅-印度甩餅\n 阿芬古早味-全麥春捲\n 炸熱狗-炸熱狗\n  壽司、手捲專門店-壽司、手捲\n
+    </string>
+    <string name="TTTfood8">
+        阿男炒泡麵-炒泡麵\n  羊肉爐-羊肉爐\n 黑糖珍珠奶茶-黑糖珍珠奶茶\n
+    </string>
+    <string name="TTTfood9">
+        珍珠鮮奶-珍珠鮮奶\n烤魷魚-烤魷魚\n 炸雞-炸雞\n 泰式雞腿捲-泰式雞腿捲\n 豆豆可麗餅-可麗餅\n
+    </string>
+    <string name="TTTfood10">
+        東山鴨頭-東山鴨頭\n 豬血湯-豬血湯\n 烤玉米-烤玉米\n
+    </string>
+    <string name="TTTfood11">
+        草仔粿-草仔粿\n 肉羹麵-肉羹麵\n  烤鴨-烤鴨\n
+    </string>
+    <string name="PEHfood">
+        用來客日式蓋飯-照燒雞腿蓋飯\n 七里香鹹酥雞-煙燻火雞翅\n 阿根大腸蚵仔麵線-蚵仔麵線\n 品客多炸雞-炸雞腿\n 林正青草茶-青草茶\n
+    </string>
+    <string name="PEHfood1">
+        馬路益燒肉飯-燒肉飯\n 北甲宮剉冰-各式剉冰\n  嘉嘉碳烤-黑輪\n 馬公市北甲宮夜市正港劉檸檬汁-檸檬汁\n
+    </string>
+    <string name="PEHfood2">
+        福牡蠣屋-牡蠣飯\n 香熱滷菜-各式滷味\n 乾益堂藥行-藥膳蛋 \n阿豹香腸攤-烤香腸\n 辣媽黑砂糖冰-八寶冰\n
+    </string>
+    <string name="KNHfood">
+        大呼過癮臭臭鍋-臭臭鍋\n  素食燒餅-燒餅\n  一味海鮮料理-蚵仔煎\n  水昆伯留客炒主廚小館-招牌炒飯\n 柴燒窯烤-PIZZA\n
+    </string>
+    <string name="KNHfood1">
+        炸皮蛋-炸皮蛋\n  意魷味勁-烤魷魚\n  小叮噹牛排-牛排\n 香蔥肉捲-香蔥肉捲\n 炙燒蔥油餅-焗烤起司蔥油餅\n
+    </string>
+    <string name="LNNfood">
+        比薩大王-老酒麵線\n  超群西點麵包城-繼光餅\n   大眾飲食店-紅糟炒飯\n   香林小館-鼎邊糊\n   甜甜屋-牛肉麵\n
+    </string>
+</resources>
